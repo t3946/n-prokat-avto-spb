@@ -57,9 +57,18 @@
     </style>
 
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <script type="text/javascript" src="{{ asset('js/scripts.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('js/app.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('js/jquery-3.1.1.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('js/jquery.formstyler.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('js/jquery.maskedinput.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('js/jquery.cookie.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('js/owl.carousel.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('js/alla.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('js/counter.js') }}"></script>
+
 </head>
 <body>
+@include('layout.header')
 @yield('content')
 </body>
 </html><!-- This page generated in 0.167707 secs by TPL, SITE MODE -->

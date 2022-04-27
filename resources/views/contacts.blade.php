@@ -1,35 +1,10 @@
-@extends('layout.    page')
+@extends('layout.page')
 
 @section('title')
     Контакты
 @endsection
 
 @section('content')
-    <header>
-        <div class="header">
-            <div>
-                <span class="mmenu"><img src="/images/origin/rectangle-2@3x.png" alt=""/></span>
-                <a class="logo" href="/"><img src="/images/origin/logo-text-part@3x.png" alt=""/></a>
-                <div class="flex1"></div>
-                <div class="mhcont">
-                    <a class="tel" href="tel:+78122411070">+7 (812) 241-10-70<span>круглосуточно</span></a>
-                    <span class="callback pushow" data-title="Заказать звонок" data-descr="Перезвоним в течении 15 минут"
-                          data-butts="Отправить">Заказать звонок</span>
-                </div>
-                <span class="mtel"><img src="/images/origin/phone@3x.png" alt=""/></span>
-            </div>
-        </div>
-        <div class="menu">
-            <div>
-                <span class="mmclose"><span><img src="/images/origin/mmclose.svg" alt=""/></span></span>
-                <nav><a href="/katalog/">Автомобили</a><a href="/podpiska_na_avtomobil/">Подписка</a><a
-                        href="/arenda-s-vykupom/">Аренда с выкупом</a><a href="/uslugi/">Услуги</a><a
-                        href="/tarify/">Тарифы</a><a href="/voprosy/">Вопросы и условия</a><a class="active"
-                                                                                              href="/kontakty/">Контакты</a><a
-                        href="/lk/">Личный кабинет</a></nav>
-            </div>
-        </div>
-    </header>
 
     <div itemscope="" itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs"><span itemscope=""
                                                                                             itemprop="itemListElement"
@@ -41,54 +16,6 @@
                                                                                                 itemprop="url item"><span
                 itemprop="name" class='current'>Контакты</span><meta itemprop="position" content="2"></span></div>
     <div class="toph1"><h1>Контакты</h1></div>
-    <script>
-        ymaps.ready(function () {
-            var map = new ymaps.Map('map', {
-                center: [59.94273954429205, 30.313417853515613],
-                zoom: 10,
-                controls: ['zoomControl', 'typeSelector', 'fullscreenControl', 'routeButtonControl']
-            }, {
-                //searchControlProvider: 'yandex#search'
-            });
-            map.behaviors.disable('scrollZoom');
-            myPlacemark = new ymaps.Placemark([59.905873, 30.453303], {
-                balloonContentHeader: '',
-                balloonContentBody: '',
-                balloonContentFooter: '',
-                hintContent: ''
-            }, {
-                iconLayout: "default#image",
-                iconImageHref: "/templates/almac/img/mapmark.png",
-                iconImageSize: [48, 48],
-                iconImageOffset: [-24, -48]
-            });
-            map.geoObjects.add(myPlacemark);
-            myPlacemark = new ymaps.Placemark([59.850055, 30.339099], {
-                balloonContentHeader: '',
-                balloonContentBody: '',
-                balloonContentFooter: '',
-                hintContent: ''
-            }, {
-                iconLayout: "default#image",
-                iconImageHref: "/templates/almac/img/mapmark.png",
-                iconImageSize: [48, 48],
-                iconImageOffset: [-24, -48]
-            });
-            map.geoObjects.add(myPlacemark);
-            myPlacemark = new ymaps.Placemark([59.980922, 30.379119], {
-                balloonContentHeader: '',
-                balloonContentBody: '',
-                balloonContentFooter: '',
-                hintContent: ''
-            }, {
-                iconLayout: "default#image",
-                iconImageHref: "/templates/almac/img/mapmark.png",
-                iconImageSize: [48, 48],
-                iconImageOffset: [-24, -48]
-            });
-            map.geoObjects.add(myPlacemark);
-        });
-    </script>
     <span class="ttitle taleft">Офисы обслуживания клиентов в г. Санкт-Петербург</span>
 
     <div class="faqtabs">
@@ -326,63 +253,13 @@
     <div class="vConts">
         <div class="ico vc_mbut"><img src="/images/origin/v_phone.png" alt=""/></div>
         <a class="ico vc_link" href="https://api.whatsapp.com/send?phone=79052230024" target="_blank"><img
-                src="/images/messengers/v_w.png" alt=""/></a><a class="ico vc_link" href="https://t.me/almakprokat"
-                                                                target="_blank"><img src="/images/messengers/v_t.png"
-                                                                                     alt=""/></a>
+                src="/images/origin/v_w.png" alt=""/></a><a class="ico vc_link" href="https://t.me/almakprokat"
+                                                            target="_blank"><img src="/images/origin/v_t.png"
+                                                                                 alt=""/></a>
     </div>
 
 
-    <script async type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph":
-  [
 
-  {
-      "@context": "http://schema.org",
-      "@type": "Organization",
-      "url": "https://avto-prokat.spb.ru/templates/almac/img/logo-text-part@3x.png",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "г. Санкт-Петербург",
-        "postalCode": "196143",
-        "streetAddress": "пр. Юрия Гагарина д.32, корп. 6Б"
-      },
-      "email": "web_almak@almak.rent",
-      "name": "Альмак прокат",
-      "telephone": "+7 (812) 241-10-70",
-      "logo": {
-      "@type": "ImageObject",
-      "url": "https://avto-prokat.spb.ru/templates/almac/img/logo-text-part@3x.png"
-       }
-    },
-      {
-      "@context": "http://schema.org",
-      "@type": "Organization",
-      "url": "https://avto-prokat.spb.ru/templates/almac/img/logo-text-part@3x.png",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "г. Санкт-Петербург",
-        "postalCode": "195197",
-        "streetAddress": "пр. Маршала Блюхера д.12 корп.7"
-      },
-      "email": "web_almak@almak.rent",
-      "name": "Альмак прокат",
-      "telephone": "+7 (812) 641-03-64",
-      "logo": {
-      "@type": "ImageObject",
-      "url": "https://avto-prokat.spb.ru/templates/almac/img/logo-text-part@3x.png"
-       }
-    }
-
-
-
-  ]
-}
-
-
-
-</script>
     <div class="puw">
         <div class="pubg puclose"></div>
         <div class="pu">
@@ -435,55 +312,5 @@
             </div>
         </div>
     </div>
-    <!--Roistat Start Integration-->
-    <script>
-        (function (w, d, s, h, id) {
-            w.roistatProjectId = id;
-            w.roistatHost = h;
-            var p = d.location.protocol == "https:" ? "https://" : "http://";
-            var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/" + id + "/init?referrer=" + encodeURIComponent(d.location.href);
-            var js = d.createElement(s);
-            js.charset = "UTF-8";
-            js.async = 1;
-            js.src = p + h + u;
-            var js2 = d.getElementsByTagName(s)[0];
-            js2.parentNode.insertBefore(js, js2);
-        })(window, document, 'script', 'cloud.roistat.com', '471af2f51d36d25e134550f501a86fcc');
-    </script>
-    <script>
-        jQuery(document).ready(function () {
-            jQuery('form').submit(function () {
-                var m = jQuery(this).closest('form');
-                var ct_fio = m.find("[name='data[Имя]']").val();
-                var ct_phone = m.find("[name='data[Телефон]']").val();
-                var ct_auto = m.find("[name='data[Авто]']").val();
-                var ct_auto_text = m.find(".jq-selectbox__select-text").text();
-                var sub = 'Заявка с: avto-prokat.spb.ru';
-                if (ct_fio === undefined || ct_phone === undefined || ct_auto === undefined) {
-
-                } else {
-                    roistatGoal.reach({
-                        leadName: `${sub}`, name: `${ct_fio}`, phone: `${ct_phone}`, text: `${sub}; ФИО:
-						${ct_fio}; Телефон: ${ct_phone}; Авто: ${ct_auto} ${ct_auto_text};`, is_skip_sending: 0,
-                        fields: {
-                            'Посадочная страница': '{landingPage}',
-                            'Источник': '{source}',
-                            'Город': '{city}',
-                            'Рекламная система': '{utmSource}',
-                            'Тип трафика': '{utmMedium}',
-                            'Рекламная кампания': '{utmCampaign}',
-                            'Ключевое слово': '{utmTerm}',
-                            'Объявление': '{utmContent}'
-                        }
-                    })
-                }
-            });
-        });
-    </script>
-    <!--Roistat End Integration-->
-
-    <!--custom mobapp()-->
-
-
 @endsection
 
