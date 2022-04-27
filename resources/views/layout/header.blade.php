@@ -26,8 +26,7 @@
                 <a href="/uslugi/">Услуги</a>
                 <a href="/tarify/">Тарифы</a>
                 <a href="/voprosy/">Вопросы и условия</a>
-                <a href="/kontakty/" class="active">Контакты</a>
-                <a href="/lk/">Личный кабинет</a>
+                <a href="/kontakty/">Контакты</a>
             </nav>
         </div>
     </div>

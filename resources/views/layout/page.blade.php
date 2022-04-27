@@ -70,5 +70,6 @@
 <body>
 @include('layout.header')
 @yield('content')
+@include('layout.footer')
 </body>
-</html><!-- This page generated in 0.167707 secs by TPL, SITE MODE -->
+</html>
