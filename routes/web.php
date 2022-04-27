@@ -31,7 +31,7 @@ Route::get('/arenda-s-vykupom', function () {
 });
 
 Route::get('/tarify', function () {
-    return view('katalog');
+    return view('pages.offers');
 });
 
 Route::get('/voprosy', function () {
