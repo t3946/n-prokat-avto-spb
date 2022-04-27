@@ -97,9 +97,6 @@
                                                                                             itemprop="url item"><span
             itemprop="name" class='current'>Контакты</span><meta itemprop="position" content="2"></span></div>
 <div class="toph1"><h1>Контакты</h1></div>
-<div class="wrmap">
-    <div id="map" class="map mapMain"></div>
-</div>
 <script>
     ymaps.ready(function () {
         var map = new ymaps.Map('map', {
