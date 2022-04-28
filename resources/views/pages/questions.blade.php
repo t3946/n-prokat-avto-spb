@@ -15,7 +15,7 @@
         <div>
             <span class="active">Вопросы</span><span>Условия</span><span>Юр лицам</span>
         </div>
-    </div><div class="faq faq0 show"><div>
+    </div><div class="faq faq0 show mb-4"><div>
             <span class="title">Зачем нужен обеспечительный депозит?</span>
             <div>
                 <p>Обеспечительный депозит - это часть компенсационного платежа, который является ответственностью клиента в случае нарушения правил эксплуатации управления транспортным средством.</p>
@@ -157,25 +157,6 @@
             </div>
         </div></div>
 
-    <div class="addq">
-        <span class="title">Задать свой вопрос</span>
-        <form method="post" action="">
-            <div class="text"><textarea name="data[Сообщение]" placeholder="Текст вопроса…"></textarea></div>
-            <div class="line">
-                <input type="text" name="data[Имя]" placeholder="Имя" />
-                <input type="text" name="data[Почта]" placeholder="Эл. Почта" />
-                <input type="tel" name="data[Телефон]" placeholder="Телефон" data-mask="+7 (000) 000-00-00" />
-                <input type="hidden" name="type" value="2" />
-                <input type="submit" value="Оставить вопрос" />
-            </div>
-            <div class="line">
-        <span class="politics-link politics-link--faq">
-            Нажимая кнопку "Отправить" вы соглашаетесь с
-			<a href="/privacy_policy/" target="_blank">пользовательским соглашением</a>
-          </span>
-            </div>
-        </form>
-    </div>
 
 @endsection
 

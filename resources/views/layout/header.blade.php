@@ -7,7 +7,7 @@
             <div class="mhcont">
                 <a class="tel" href="tel:+78122411070">+7 (981) 686-63-35<span>круглосуточно</span></a>
                 <span
-                    class="callback pushow"
+                    class="callback pushow d-none"
                     data-title="Заказать звонок"
                     data-descr="Перезвоним в течении 15 минут"
                     data-butts="Отправить"
