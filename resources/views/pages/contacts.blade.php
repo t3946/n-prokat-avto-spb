@@ -130,21 +130,9 @@
     <div class="contMiniM m_contTab m_contTab_0">
         <div>
             <span class="title">Офис «Дальневосточный»</span>
-            <span class="infoline"><span>Месторасположение:</span>С-Пб., пр. Дальневосточный 20к2</span>
+            <span class="infoline"><span>Месторасположение:</span>Санкт-Петербург, ПР-КТ Васнецовский д.18, стр 1.</span>
             <span class="infoline"><span>Режим работы:</span>с 09:00 до 21:00</span>
             <a class="button" href="/kontakty/ofis-dal-nevostochnyj/">Подробнее</a>
-        </div>
-        <div>
-            <span class="title">Офис «Гагарина»</span>
-            <span class="infoline"><span>Месторасположение:</span>С-Пб., пр. Юрия Гагарина д.32, корп. 6Б</span>
-            <span class="infoline"><span>Режим работы:</span>с 09:00 до 21:00</span>
-            <a class="button" href="/kontakty/ofis-gagarina/">Подробнее</a>
-        </div>
-        <div>
-            <span class="title">Офис «Блюхера»</span>
-            <span class="infoline"><span>Месторасположение:</span>С-Пб., пр. Маршала Блюхера д.12 корп.7</span>
-            <span class="infoline"><span>Режим работы:</span>с 09:00 до 21:00</span>
-            <a class="button" href="/kontakty/ofis-blyuhera1/">Подробнее</a>
         </div>
     </div>
     <style>
