@@ -1682,3 +1682,19 @@ p.reviewText {
     list-style: none;
 }
 
+.contacts-qr-code {
+    width: 120px;
+}
+
+@media (min-width: 768px) {
+    .contacts-qr-code {
+        width: 160px;
+    }
+}
+
+@media (min-width: 992px) {
+    .contacts-qr-code {
+        width: 180px;
+    }
+}
+
