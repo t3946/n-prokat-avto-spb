@@ -176,121 +176,121 @@
         <h1>Услуги</h1>
         <div class="blog">
             <a href="/uslugi/arenda-avto-v-gingiseppe/">
-                <img src="/images/kingisepp.jpg" alt="" />
+                <img src="/images/origin/services/kingisepp.jpg" alt="" />
                 <span>
 		<span class="title">Аренда авто в Кингисеппе — посуточно | без водителя</span>
 		<p>Аренда авто в Кингисеппе посуточно. Новые автомобили 2021-2022 г.в., в наличии более 60 моделей от эконом до бизнес класса. Прокат машин без водителя в Кингисеппе. Работаем по всей России. Круглосуточная поддержка.</p>
 	</span>
             </a><a href="/uslugi/arenda-mashiny-yuridicheskim-licom/">
-                <img src="/images/images/02.11.2015/arenda_avto_dlya_yur_lic.jpg" alt="" />
+                <img src="/images/origin/services/arenda_avto_dlya_yur_lic.jpg" alt="" />
                 <span>
 		<span class="title">Аренда машины юридическим лицом в Санкт-Петербурге</span>
 		<p>Аренда авто для организации. Корпоративный транспорт для юридических лиц</p>
 	</span>
             </a><a href="/uslugi/arenda-avto-na-7-mest/">
-                <img src="/images/images/3102/2584654249.png" alt="" />
+                <img src="/images/origin/services/2584654249.png" alt="" />
                 <span>
 		<span class="title">Аренда 7 местного авто без водителя | Прокат семиместного автомобиля в СПб</span>
 		<p>Прокат семиместного автомобиля в&nbsp;Санкт-Петербурге</p>
 	</span>
             </a><a href="/uslugi/arenda-avto-s-vyezdom-za-granicu/">
-                <img src="/images/images/3102/84322185597654.png" alt="" />
+                <img src="/images/origin/services/84322185597654.png" alt="" />
                 <span>
 		<span class="title">Аренда авто с выездом за границу | Прокат автомобиля для поездки за границу</span>
 		<p>Прокат автомобиля для поездки за границу</p>
 	</span>
             </a><a href="/uslugi/arenda-legkovyh-avto-s-vykupom/">
-                <img src="/images/images/3102/4556465468798.png" alt="" />
+                <img src="/images/origin/services/4556465468798.png" alt="" />
                 <span>
 		<span class="title">Аренда легковых автомобилей с правом выкупа в СПб</span>
 
 	</span>
             </a><a href="/uslugi/arenda-minivena-mezhgorod/">
-                <img src="/images/images/3102/644641549879797.png" alt="" />
+                <img src="/images/origin/services/644641549879797.png" alt="" />
                 <span>
 		<span class="title">Аренда минивэна для путешествий по России без водителя в СПб</span>
 		<p>Аренда минивэна для путешествий по России</p>
 	</span>
             </a><a href="/uslugi/arenda-minivena-posutochno/">
-                <img src="/images/images/3102/658754548768784.png" alt="" />
+                <img src="/images/origin/services/658754548768784.png" alt="" />
                 <span>
 		<span class="title">Аренда минивэна посуточно в СПб без водителя | Снять минивэн на сутки</span>
 		<p>Снять минивэн на сутки&nbsp;в Санкт-Петербурге</p>
 	</span>
             </a><a href="/uslugi/arenda-avto-po-rossii/">
-                <img src="/images/images/3102/654641328557845.png" alt="" />
+                <img src="/images/origin/services/654641328557845.png" alt="" />
                 <span>
 		<span class="title">Аренда авто для поездки по России в СПб | Прокат машины на дальние расстояния</span>
 		<p>Аренда автомобилей для поездки по России</p>
 	</span>
             </a><a href="/uslugi/arenda-legkovyh-avtomobilej/">
-                <img src="/images/images/3102/depositphotos_26928661_original-3.jpg" alt="" />
+                <img src="/images/origin/services/depositphotos_26928661_original-3.jpg" alt="" />
                 <span>
 		<span class="title">Аренда легкового автомобиля в СПб | Взять легковушку на прокат в «Альмак Прокат»</span>
 		<p>Легковой автомобиль в аренду в Санкт-Петербурге.</p>
 	</span>
             </a><a href="/uslugi/arenda-avtomobilya-na-vyhodnye/">
-                <img src="/images/images/3102/38f56cc16f13b2675e4a51e4f9eab4a4.jpg" alt="" />
+                <img src="/images/origin/services/38f56cc16f13b2675e4a51e4f9eab4a4.jpg" alt="" />
                 <span>
 		<span class="title">Аренда авто на выходные в СПб | Прокат машин в «Альмак Прокат»</span>
 		<p>Аренда автомобиля на выходные. Выбор комплектации авто. Возможность забронировать.</p>
 	</span>
             </a><a href="/uslugi/arenda-avtomobilya-na-2-nedeli/">
-                <img src="/images/images/3102/4210973.jpeg" alt="" />
+                <img src="/images/origin/services/4210973.jpeg" alt="" />
                 <span>
 		<span class="title">Аренда авто на 2 недели | Прокат машины на 14 дней в СПб | «Альмак Прокат»</span>
 		<p>Взять автомобиль на 2 недели. Прокат машин на 14 дней в Санкт-Петербурге. Выбор комплектации авто.</p>
 	</span>
             </a><a href="/uslugi/dlitelnaya-arenda-avtomobilya/">
-                <img src="/images/images/3102/dfslkgjhsgrhg87546.png" alt="" />
+                <img src="/images/origin/services/dfslkgjhsgrhg87546.png" alt="" />
                 <span>
 		<span class="title">Сервис долгосрочной аренды авто в СПб | Снять в прокат автомобиль на длительный срок в «Альмак Прокат»</span>
 		<p>Аренда автомобилей на длительный срок. Выгодные цены. Бронирование. Различные комплектации.</p>
 	</span>
             </a><a href="/uslugi/arenda-minivena/">
-                <img src="/images/images/3102/20.jpg" alt="" />
+                <img src="/images/origin/services/20.jpg" alt="" />
                 <span>
 		<span class="title">Аренда минивэна без водителя в СПб | Снять авто минивэн на прокат в «Альмак Прокат»</span>
 		<p>Аренда минивена на 7, 8 и более человек. Без скрытых платежей. Удобное бронирование на сайте. Взять напрокат минивен в СПб. Застрахованный автомобиль, оперативная подача.</p>
 	</span>
             </a><a href="/uslugi/prokat-dorogih-avto/">
-                <img src="/images/images/3102/19.jpg" alt="" />
+                <img src="/images/origin/services/19.jpg" alt="" />
                 <span>
 		<span class="title">Аренда авто бизнес класса | Взять в прокат элитный автомобиль авто в Санкт-Петербурге</span>
 		<p>Прокат дорогих авто в СПб. Мерседес, Инфинити, Ауди и другие. Экслюзивные варианты. Быстрая подача и оформление. VIP премиум аренда дорогих машин для торжества и личного пользования.</p>
 	</span>
             </a><a href="/uslugi/prokat-avto-bez-voditelya/">
-                <img src="/images/images/3102/18.jpg" alt="" />
+                <img src="/images/origin/services/18.jpg" alt="" />
                 <span>
 		<span class="title">Прокат/аренда авто без водителя в Санкт-Петербурге</span>
 		<p>Прокат авто в СПб без водителя. Для жителей России. Audi, Hyundai, Infiniti, Volkswagen, KIA, Renault и другие модели. Прокат автомобиля без водителя &ndash; это быстро, выгодно и удобно!</p>
 	</span>
             </a><a href="/uslugi/arenda-avtomobilya-na-svadbu/">
-                <img src="/images/images/3102/17.jpg" alt="" />
+                <img src="/images/origin/services/17.jpg" alt="" />
                 <span>
 		<span class="title">Аренда автомобиля на свадьбу Санкт-Петербурге</span>
 		<p>Аренда автомобиля на свадьбу. Большой каталог. Свадебный кортеж. Бизнес класс. Чистые, не прокуренные салоны. Автомобили для дня бракосочетания. Закажите прокат машин на свадьбу!</p>
 	</span>
             </a><a href="/uslugi/arenda-avto-na-god/">
-                <img src="/images/images/3102/16.jpg" alt="" />
+                <img src="/images/origin/services/16.jpg" alt="" />
                 <span>
 		<span class="title">Аренда авто на год — цены в Санкт-Петербурге | Годовая аренда автомобиля</span>
 		<p>Аренда авто на год на оптимальных условиях. В наличии автомашины известных марок разного класса. Современная машина в аренду на год. Работаем все дни недели. Круглосуточная поддержка.</p>
 	</span>
             </a><a href="/uslugi/arenda-avtomobilya-na-nedelyu/">
-                <img src="/images/images/3102/15.jpg" alt="" />
+                <img src="/images/origin/services/15.jpg" alt="" />
                 <span>
 		<span class="title">Аренда автомобиля на неделю в Санкт-Петербурге | «Альмак Прокат»</span>
 		<p>Аренда авто на неделю в СПб. Подбор по параметрам. Бронирование. автомашины всех классов, включая бизнес и комфорт. Оформление заявки прямо на сайте. Круглосуточный сервис.</p>
 	</span>
             </a><a href="/uslugi/arenda-avto-na-mesyac/">
-                <img src="/images/images/3102/14.jpg" alt="" />
+                <img src="/images/origin/services/14.jpg" alt="" />
                 <span>
 		<span class="title">Аренда авто на месяц — цена в СПб | Прокат машин помесячно</span>
 		<p>Аренда авто на месяц. Широкий модельный ряд и лояльный условия на прокат авто на месяц. Стандарт, комфорт, бизнес и другие модели. Для юридических лиц и частников.</p>
 	</span>
             </a><a href="/uslugi/vzyat-mashinu-v-arendu/">
-                <img src="/images/images/3102/13.jpg" alt="" />
+                <img src="/images/origin/services/13.jpg" alt="" />
                 <span>
 		<span class="title">Взять машину в аренду в Санкт-Петербурге</span>
 		<p>Как взять машину в аренду на лучших условиях? Позвоните по телефону 8(812)241-10-48. Привлекательные цены и первоклассный сервис. Спешите взять авто в аренду в Санкт-Петербурге.</p>
@@ -315,7 +315,7 @@
         <form class="filter" method="post" action="/">
             <select name="catalog">
                 <option value="">Категория</option>
-                <option value="/katalog/klass-promo/">Класс промо</option><option value="/katalog/arenda_avtomobilej_klassa_standart/">Класс стандарт</option><option value="/katalog/arenda_avtomobilej_klassa_komfort/">Класс комфорт</option><option value="/katalog/arenda_avtomobilej_klassa_krossover/">Класс кроссоверы</option><option value="/katalog/arenda_minivenov/">Класс минивены</option><option value="/katalog/arenda_avtomobilej_klassa_ljuks/">Класс бизнес</option><option value="/katalog/arenda_avtomobilej_tesla/">Класс электромобили</option><option value="/katalog/arenda_avtomobilej_klassa_sommercial/">Класс коммерческий</option>
+                <option value="/katalog/klass-promo/">Класс промо</option><option value="/katalogenda_avtomobilej_klassa_standart/">Класс стандарт</option><option value="/katalog/arenda_avtomobilej_klassa_komfort/">Класс комфорт</option><option value="/katalog/arenda_avtomobilej_klassa_krossover/">Класс кроссоверы</option><option value="/katalog/arenda_minivenov/">Класс минивены</option><option value="/katalog/arenda_avtomobilej_klassa_ljuks/">Класс бизнес</option><option value="/katalog/arenda_avtomobilej_tesla/">Класс электромобили</option><option value="/katalog/arenda_avtomobilej_klassa_sommercial/">Класс коммерческий</option>
             </select>
             <select name="filter[gear_box_type][]">
                 <option value="">Коробка передач</option>
@@ -327,13 +327,4 @@
             </select>
         </form>
     </div>
-
-    <div class="smart-catalog-by-ids">
-
-    </div>
-
-    <article class="innerPageContent">
-
-    </article>
-
 @endsection
