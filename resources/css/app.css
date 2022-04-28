@@ -5,4 +5,8 @@
 @import url(owl.carousel/dist/assets/owl.carousel.min.css);
 @import url(./origin/seonity.css);
 @import url(./origin/styles.css);
+@import "bootstrap/dist/css/bootstrap-utilities.min.css";
 
+.list-unstyled {
+    list-style: none;
+}
