@@ -124,6 +124,10 @@ Route::prefix('kontakty')->group(function () {
     Route::get('/arenda-avto-murino', function () {
         return view('pages.contacts.arenda-avto-murino');
     });
+
+    Route::get('/ofis-dal-nevostochnyj', function () {
+        return view('pages.contacts.offices.ofis-dal-nevostochnyj');
+    });
 });
 
 //from footer

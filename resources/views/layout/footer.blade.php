@@ -20,7 +20,7 @@
             </div>
             <div class="rightf">
                 <span class="titlef">Справочный центр</span>
-                <a class="telf" href="tel:+78122411070">+7 (981) 686-63-35</a>
+                <a class="telf" href="tel:+79816866335">+7 (981) 686-63-35</a>
                 <div class="bankImg">
 
                     <img src="/images/origin/MasterCard.jpeg" alt=""/>

@@ -39,7 +39,7 @@
                     <td>Офис «Дальневосточный»</td>
                     <td> Санкт-Петербург, ПР-КТ Васнецовский д.18, стр 1.</td>
                     <td>с 09:00 до 21:00</td>
-                    <td><a class="button" href="#">Подробнее</a></td>
+                    <td><a class="button" href="/kontakty/ofis-dal-nevostochnyj">Подробнее</a></td>
                 </tr>
             </table>
         </div>

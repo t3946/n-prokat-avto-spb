@@ -90,7 +90,7 @@
                 </div>
                 <div class="rightf">
                     <span class="titlef">Справочный центр</span>
-                    <a class="telf" href="tel:+78122411070">+7 (981) 686-63-35</a>
+                    <a class="telf" href="tel:+79816866335">+7 (981) 686-63-35</a>
                     <div class="appf">
                         <a class="ios" href="https://trk.mail.ru/c/nczwt4?mt_idfa={mt_idfa}"><img src="/templates/almac/img/appleapp.svg" alt="" /></a>
                         <a class="android" href="https://trk.mail.ru/c/yd9sq5?mt_gaid={mt_gaid}"><img src="/templates/almac/img/googleapp.svg" alt="" /></a>
