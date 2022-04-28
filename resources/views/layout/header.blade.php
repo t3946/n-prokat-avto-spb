@@ -2,7 +2,7 @@
     <div class="header">
         <div>
             <span class="mmenu"><img src="/images/origin/rectangle-2@3x.png" alt=""/></span>
-            <a class="logo" href="/"><img src="/images/origin/logo-text-part@3x.png" alt=""/></a>
+            <a class="logo p-2" href="/"><img src="/images/logo-header.png" alt=""/></a>
             <div class="flex1"></div>
             <div class="mhcont">
                 <a class="tel" href="tel:+78122411070">+7 (981) 686-63-35<span>круглосуточно</span></a>

@@ -141,7 +141,7 @@
         }
     </style>
     <div class="urinfo" style="margin-bottom: 25px;">
-        <div class="faq faq0 show" style="    background: #ecf1f9;">
+        <div class="faq faq0 show bg-light1">
             <div>
                 <span class="title">Юридическая информация</span>
                 <div class="urinfotxt">

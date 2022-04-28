@@ -2,7 +2,7 @@
     <div>
         <div class="footer">
             <div class="leftf">
-                <span class="logof"><img src="/images/origin/logof@3x.png" alt=""/></span>
+                <span class="logof"><img src="/images/logo-footer.png" alt=""/></span>
             </div>
             <div class="centerf">
                 <div class="fmenu">
