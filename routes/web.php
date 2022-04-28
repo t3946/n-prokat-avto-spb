@@ -34,6 +34,72 @@ Route::get('/uslugi', function () {
     return view('pages.services');
 });
 
+Route::prefix('uslugi')->group(function () {
+    Route::get('/', function () {
+        return view('pages.services');
+    });
+    Route::get('/arenda-avto-v-gingiseppe', function () {
+        return view('pages.services.arenda-avto-v-gingiseppe');
+    });
+    Route::get('/arenda-mashiny-yuridicheskim-licom', function () {
+        return view('pages.services.arenda-mashiny-yuridicheskim-licom');
+    });
+    Route::get('/arenda-avto-na-7-mest', function () {
+        return view('pages.services.arenda-avto-na-7-mest');
+    });
+    Route::get("/arenda-avto-s-vyezdom-za-granicu", function() {
+        return view("pages.services.arenda-avto-s-vyezdom-za-granicu");
+    });
+    Route::get("/arenda-legkovyh-avto-s-vykupom", function() {
+        return view("pages.services.arenda-legkovyh-avto-s-vykupom");
+    });
+    Route::get("/arenda-minivena-mezhgorod", function() {
+        return view("pages.services.arenda-minivena-mezhgorod");
+    });
+    Route::get("/arenda-minivena-posutochno", function() {
+        return view("pages.services.arenda-minivena-posutochno");
+    });
+    Route::get("/arenda-avto-po-rossii", function() {
+        return view("pages.services.arenda-avto-po-rossii");
+    });
+    Route::get("/arenda-legkovyh-avtomobilej", function() {
+        return view("pages.services.arenda-legkovyh-avtomobilej");
+    });
+    Route::get("/arenda-avtomobilya-na-vyhodnye", function() {
+        return view("pages.services.arenda-avtomobilya-na-vyhodnye");
+    });
+    Route::get("/arenda-avtomobilya-na-2-nedeli", function() {
+        return view("pages.services.arenda-avtomobilya-na-2-nedeli");
+    });
+    Route::get("/dlitelnaya-arenda-avtomobilya", function() {
+        return view("pages.services.dlitelnaya-arenda-avtomobilya");
+    });
+    Route::get("/arenda-minivena", function() {
+        return view("pages.services.arenda-minivena");
+    });
+    Route::get("/prokat-dorogih-avto", function() {
+        return view("pages.services.prokat-dorogih-avto");
+    });
+    Route::get("/prokat-avto-bez-voditelya", function() {
+        return view("pages.services.prokat-avto-bez-voditelya");
+    });
+    Route::get("/arenda-avtomobilya-na-svadbu", function() {
+        return view("pages.services.arenda-avtomobilya-na-svadbu");
+    });
+    Route::get("/arenda-avto-na-god", function() {
+        return view("pages.services.arenda-avto-na-god");
+    });
+    Route::get("/arenda-avtomobilya-na-nedelyu", function() {
+        return view("pages.services.arenda-avtomobilya-na-nedelyu");
+    });
+    Route::get("/arenda-avto-na-mesyac", function() {
+        return view("pages.services.arenda-avto-na-mesyac");
+    });
+    Route::get("/vzyat-mashinu-v-arendu", function() {
+        return view("pages.services.vzyat-mashinu-v-arendu");
+    });
+});
+
 Route::get('/tarify', function () {
     return view('pages.offers');
 });
