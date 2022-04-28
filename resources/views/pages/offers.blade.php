@@ -1,7 +1,7 @@
 @extends('layout.page')
 
 @section('title')
-    Вопросы и условия
+    Тарифы
 @endsection
 
 @section('content')
