@@ -39,7 +39,7 @@ Route::get('/voprosy', function () {
 });
 
 Route::get('/kontakty', function () {
-    return view('katalog');
+    return view('pages.contacts');
 });
 
 //from footer
