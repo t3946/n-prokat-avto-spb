@@ -30,6 +30,10 @@ Route::get('/arenda-s-vykupom', function () {
     return view('katalog');
 });
 
+Route::get('/uslugi', function () {
+    return view('pages.services');
+});
+
 Route::get('/tarify', function () {
     return view('pages.offers');
 });
@@ -51,10 +55,6 @@ Route::get('/obzory_avtomobilej', function () {
     return view('main');
 });
 
-Route::get('/obzory_avtomobilej', function () {
-    return view('main');
-});
-
 Route::get('/stati', function () {
     return view('main');
 });
@@ -64,10 +64,6 @@ Route::get('/programma', function () {
 });
 
 Route::get('/konkurs', function () {
-    return view('main');
-});
-
-Route::get('/uslugi', function () {
     return view('main');
 });
 
