@@ -72,48 +72,48 @@
                     <td>от 5 дней - бесплатно<br/>от 7 дней - бесплатно</td>
                     <td><a class="button" href="/kontakty/arenda-avto-murino/">Подробнее</a></td>
                 </tr>
-                <tr>
-                    <td>Петергоф</td>
-                    <!--<td>с 09:00 до 20:30</td>-->
-                    <td>от 5 дней - бесплатно<br/>от 7 дней - бесплатно</td>
-                    <td><a class="button" href="/kontakty/arenda-avto-petergof/">Подробнее</a></td>
-                </tr>
-                <tr>
-                    <td>Пушкин</td>
-                    <!--<td>с 09:00 до 20:30</td>-->
-                    <td>от 5 дней - бесплатно<br/>от 7 дней - бесплатно</td>
-                    <td><a class="button" href="/kontakty/arenda-avto-pushkin/">Подробнее</a></td>
-                </tr>
-                <tr>
-                    <td>Красное Село</td>
-                    <!--<td>с 09:00 до 20:30</td>-->
-                    <td>от 5 дней - бесплатно<br/>от 7 дней - бесплатно</td>
-                    <td><a class="button" href="/kontakty/arenda-avto-krasnoe-selo/">Подробнее</a></td>
-                </tr>
-                <tr>
-                    <td>Гатчина</td>
-                    <!--<td>с 09:00 до 20:30</td>-->
-                    <td>от 5 дней - 2500 руб.<br/>от 7 дней - 1500 руб.</td>
-                    <td><a class="button" href="/kontakty/arenda-avto-gatchina/">Подробнее</a></td>
-                </tr>
-                <tr>
-                    <td>Сосновый Бор</td>
-                    <!--<td>с 09:00 до 20:30</td>-->
-                    <td>от 5 дней - 3000 руб.<br/>от 7 дней - 1500 руб.</td>
-                    <td><a class="button" href="/kontakty/arenda-avto-sosnovyi-bor/">Подробнее</a></td>
-                </tr>
-                <tr>
-                    <td>Кингисепп</td>
-                    <!--<td>с 09:00 до 20:30</td>-->
-                    <td>от 5 дней - 4000 руб.<br/>от 7 дней - 2500 руб.</td>
-                    <td><a class="button" href="/kontakty/arenda-avto-kingisepp/">Подробнее</a></td>
-                </tr>
-                <tr>
-                    <td>Выборг</td>
-                    <!--<td>с 09:00 до 20:30</td>-->
-                    <td>от 5 дней - 2500 руб.<br/>от 7 дней - 1500 руб.</td>
-                    <td><a class="button" href="/kontakty/arenda-avto-vyborg/">Подробнее</a></td>
-                </tr>
+{{--                <tr>--}}
+{{--                    <td>Петергоф</td>--}}
+{{--                    <!--<td>с 09:00 до 20:30</td>-->--}}
+{{--                    <td>от 5 дней - бесплатно<br/>от 7 дней - бесплатно</td>--}}
+{{--                    <td><a class="button" href="/kontakty/arenda-avto-petergof/">Подробнее</a></td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <td>Пушкин</td>--}}
+{{--                    <!--<td>с 09:00 до 20:30</td>-->--}}
+{{--                    <td>от 5 дней - бесплатно<br/>от 7 дней - бесплатно</td>--}}
+{{--                    <td><a class="button" href="/kontakty/arenda-avto-pushkin/">Подробнее</a></td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <td>Красное Село</td>--}}
+{{--                    <!--<td>с 09:00 до 20:30</td>-->--}}
+{{--                    <td>от 5 дней - бесплатно<br/>от 7 дней - бесплатно</td>--}}
+{{--                    <td><a class="button" href="/kontakty/arenda-avto-krasnoe-selo/">Подробнее</a></td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <td>Гатчина</td>--}}
+{{--                    <!--<td>с 09:00 до 20:30</td>-->--}}
+{{--                    <td>от 5 дней - 2500 руб.<br/>от 7 дней - 1500 руб.</td>--}}
+{{--                    <td><a class="button" href="/kontakty/arenda-avto-gatchina/">Подробнее</a></td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <td>Сосновый Бор</td>--}}
+{{--                    <!--<td>с 09:00 до 20:30</td>-->--}}
+{{--                    <td>от 5 дней - 3000 руб.<br/>от 7 дней - 1500 руб.</td>--}}
+{{--                    <td><a class="button" href="/kontakty/arenda-avto-sosnovyi-bor/">Подробнее</a></td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <td>Кингисепп</td>--}}
+{{--                    <!--<td>с 09:00 до 20:30</td>-->--}}
+{{--                    <td>от 5 дней - 4000 руб.<br/>от 7 дней - 2500 руб.</td>--}}
+{{--                    <td><a class="button" href="/kontakty/arenda-avto-kingisepp/">Подробнее</a></td>--}}
+{{--                </tr>--}}
+{{--                <tr>--}}
+{{--                    <td>Выборг</td>--}}
+{{--                    <!--<td>с 09:00 до 20:30</td>-->--}}
+{{--                    <td>от 5 дней - 2500 руб.<br/>от 7 дней - 1500 руб.</td>--}}
+{{--                    <td><a class="button" href="/kontakty/arenda-avto-vyborg/">Подробнее</a></td>--}}
+{{--                </tr>--}}
             </table>
         </div>
     </div>

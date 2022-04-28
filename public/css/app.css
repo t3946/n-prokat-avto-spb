@@ -1198,7 +1198,7 @@ footer > div {max-width: 1200px; margin: 0 auto; padding: 30px 20px;}
 .mainInfoCont {border: 2px solid #ecf9ee; padding: 20px 25px; border-radius: 10px;}
 .mainInfoCont h2 {font-size: 20px; margin-bottom: 20px;}
 
-.ulcont {list-style: none;}
+.ulcont {list-style: none; filter: grayscale(1)}
 .ulcont li {display: flex; align-items: center; margin-bottom: 14px; font-weight: 500;}
 .ulcont li .icoimg {background: #ecf9ee; width: 45px; min-width: 45px; height: 45px; border-radius: 100%; display: flex; align-items: center; justify-content: center; margin-right: 15px;}
 .ulcont li .icoimg img {width: 24px;}

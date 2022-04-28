@@ -108,8 +108,22 @@ Route::get('/voprosy', function () {
     return view('pages.questions');
 });
 
-Route::get('/kontakty', function () {
-    return view('pages.contacts');
+Route::prefix('kontakty')->group(function () {
+    Route::get('/', function () {
+        return view('pages.contacts');
+    });
+
+    Route::get('/arenda-avto-vsevolozhsk', function () {
+        return view('pages.contacts.arenda-avto-vsevolozhsk');
+    });
+
+    Route::get('/arenda-avto-kolpino', function () {
+        return view('pages.contacts.arenda-avto-kolpino');
+    });
+
+    Route::get('/arenda-avto-murino', function () {
+        return view('pages.contacts.arenda-avto-murino');
+    });
 });
 
 //from footer
