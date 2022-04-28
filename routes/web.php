@@ -19,15 +19,19 @@ Route::get('/', function () {
 
 //from navigation
 Route::get('/katalog', function () {
-    return view('contacts');
+    return view('main');
 });
 
 Route::get('/podpiska_na_avtomobil', function () {
-        return view('katalog');
+    return view('pages.podpiska_na_avtomobil');
 });
 
 Route::get('/arenda-s-vykupom', function () {
-    return view('katalog');
+    return view('pages.arenda-s-vykupom');
+});
+
+Route::get('/arenda-s-vykupom', function () {
+    return view('pages.arenda-s-vykupom');
 });
 
 Route::get('/uslugi', function () {
