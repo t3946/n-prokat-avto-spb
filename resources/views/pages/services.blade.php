@@ -297,7 +297,7 @@
 	</span>
             </a>
         </div>
-        <div class="pagination">
+        <div class="pagination d-none">
             <span>1</span><a href="?p=1">2</a><a href="?p=1">></a>
         </div>
     </article>

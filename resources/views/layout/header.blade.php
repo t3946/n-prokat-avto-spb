@@ -5,7 +5,7 @@
             <a class="logo" href="/"><img src="/images/origin/logo-text-part@3x.png" alt=""/></a>
             <div class="flex1"></div>
             <div class="mhcont">
-                <a class="tel" href="tel:+78122411070">+7 (812) 241-10-70<span>круглосуточно</span></a>
+                <a class="tel" href="tel:+78122411070">+7 (981) 686-63-35<span>круглосуточно</span></a>
                 <span
                     class="callback pushow"
                     data-title="Заказать звонок"

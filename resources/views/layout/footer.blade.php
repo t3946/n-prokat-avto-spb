@@ -32,7 +32,7 @@
             </div>
             <div class="rightf">
                 <span class="titlef">Справочный центр</span>
-                <a class="telf" href="tel:+78122411070">+7 (812) 241-10-70</a>
+                <a class="telf" href="tel:+78122411070">+7 (981) 686-63-35</a>
                 <div class="appf">
                     <a class="ios" href="https://trk.mail.ru/c/nczwt4?mt_idfa={mt_idfa}"><img
                             src="/images/origin/appleapp.svg" alt=""/></a>
