@@ -19,7 +19,7 @@ Route::get('/', function () {
 
 //from navigation
 Route::get('/katalog', function () {
-    return view('main');
+    return view('katalog');
 });
 
 Route::get('/podpiska_na_avtomobil', function () {
