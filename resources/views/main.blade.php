@@ -8,11 +8,11 @@
 
     <div itemscope="" itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs"><span itemscope="" itemprop="itemListElement" class="B_firstCrumb" itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Главная</span><meta itemprop="position" content="1"></a></span><span class="sep">»</span><span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem"><link href="/katalog/" itemprop="url item"><span itemprop="name" class='current'>Автомобили</span><meta itemprop="position" content="2"></span></div>
     <div class="toph1"><h1>Автомобили</h1></div><span class="vka">Выбрать класс автомобиля</span>
-    <div class="priceFilter">
+    <div class="priceFilter d-none">
         <a class="pfitem allcl" href="/katalog/"><span class="title">Все классы</span></a>
         <a class="pfitem" href="/katalog/klass-promo/">Класс промо</a><a class="pfitem" href="/katalog/arenda_avtomobilej_klassa_standart/">Класс стандарт</a><a class="pfitem" href="/katalog/arenda_avtomobilej_klassa_komfort/">Класс комфорт</a><a class="pfitem" href="/katalog/arenda_avtomobilej_klassa_krossover/">Класс кроссоверы</a><a class="pfitem" href="/katalog/arenda_minivenov/">Класс минивены</a><a class="pfitem" href="/katalog/arenda_avtomobilej_klassa_ljuks/">Класс бизнес</a><a class="pfitem" href="/katalog/arenda_avtomobilej_tesla/">Класс электромобили</a><a class="pfitem" href="/katalog/arenda_avtomobilej_klassa_sommercial/">Класс коммерческий</a><a class="pfitem" href="/katalog/tesla-model-s-100d/">Tesla Model S 100D</a><a class="pfitem" href="/katalog/tesla-model-x-100d/">Tesla Model X 100D</a><a class="pfitem" href="/katalog/tesla-model-s-perfomance/">Tesla Model S Perfomance</a><a class="pfitem" href="/katalog/tesla-model-3-perfomance/">Tesla Model 3 Perfomance</a>
     </div>
-    <div class="allcat"><a href="/katalog/">Показать все варианты</a></div>
+    <div class="allcat d-none"><a href="/katalog/">Показать все варианты</a></div>
     <div>
         <div class="catalog 4">
             <a class="ob_1443" href="/katalog/klass-promo/volkswagen-polo-mt-promo/">

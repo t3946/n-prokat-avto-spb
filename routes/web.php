@@ -158,3 +158,7 @@ Route::get('/konkurs', function () {
 Route::get('/otzyvy', function () {
     return view('main');
 });
+
+Route::get('/katalog/{category}/{car}', function ($category, $car) {
+    return view("pages.catalog.$category.$car");
+});
