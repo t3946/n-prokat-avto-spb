@@ -63,7 +63,7 @@
         <div>
             <div class="footer">
                 <div class="leftf">
-                    <span class="logof"><img src="/templates/almac/img/logof@3x.png" alt="" /></span>
+                    <span class="logof"><img src="/images/templates/almac/img/logof@3x.png" alt="" /></span>
                     <div class="soc">
                         <a href="https://vk.com/almak_prokat" target="_blank"><img src="/images/parser/social/Priceimageextra0000031391.jpeg" alt="" /></a>
                         <a href="https://www.youtube.com/channel/UCaTSjw3DWHSc2HuqF1dhHwg" target="_blank"><img src="/images/parser/social/Priceimageextra0000031422.jpeg" alt="" /></a>
@@ -92,15 +92,15 @@
                     <span class="titlef">Справочный центр</span>
                     <a class="telf" href="tel:+79816866335">+7 (981) 686-63-35</a>
                     <div class="appf">
-                        <a class="ios" href="https://trk.mail.ru/c/nczwt4?mt_idfa={mt_idfa}"><img src="/templates/almac/img/appleapp.svg" alt="" /></a>
-                        <a class="android" href="https://trk.mail.ru/c/yd9sq5?mt_gaid={mt_gaid}"><img src="/templates/almac/img/googleapp.svg" alt="" /></a>
+                        <a class="ios" href="https://trk.mail.ru/c/nczwt4?mt_idfa={mt_idfa}"><img src="/images/templates/almac/img/appleapp.svg" alt="" /></a>
+                        <a class="android" href="https://trk.mail.ru/c/yd9sq5?mt_gaid={mt_gaid}"><img src="/images/templates/almac/img/googleapp.svg" alt="" /></a>
 
                     </div>
                     <div class="bankImg">
 
-                        <img src="/templates/almac/img/MasterCard.jpeg" alt="" />
-                        <img src="/templates/almac/img/VISA.png" alt="" />
-                        <img src="/templates/almac/img/opl.png" alt="" />
+                        <img src="/images/templates/almac/img/MasterCard.jpeg" alt="" />
+                        <img src="/images/templates/almac/img/VISA.png" alt="" />
+                        <img src="/images/templates/almac/img/opl.png" alt="" />
                     </div>
                 </div>
             </div>

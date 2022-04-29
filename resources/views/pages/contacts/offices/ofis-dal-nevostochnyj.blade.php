@@ -47,7 +47,7 @@
                 hintContent: ''
             },{
                 iconLayout: "default#image",
-                iconImageHref: "/templates/almac/img/mapmark.png",
+                iconImageHref: "/images/templates/almac/img/mapmark.png",
                 iconImageSize: [48, 48],
                 iconImageOffset: [-24, -48]
             });

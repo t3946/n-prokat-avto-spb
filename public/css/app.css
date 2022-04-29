@@ -1594,7 +1594,7 @@ margin-bottom: 10px;
 }
 .bgImage {
 	height: 150px;
-    background: url(/templates/almac/img/lock.jpg);
+    background: url(/images/templates/almac/img/lock.jpg);
     background-size: contain;
 }
 .faq {

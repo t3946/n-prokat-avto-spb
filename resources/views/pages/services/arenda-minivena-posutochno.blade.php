@@ -56,11 +56,11 @@
                     <!--%system makeThumbnail('.%img%',270,'auto',img)%-->
                     <img src="/images/parser/Banner_Kiosk000034122000000019.jpeg?v=2" alt="" />
                     <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 2 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" /> 10 </span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" /> 2 </span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> MT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 2 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" /> 10 </span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" /> 2 </span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> MT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                     <span class="bottom dbottom">
 		<span class="price">от 2070 руб.</span>
@@ -79,11 +79,11 @@
                     <!--%system makeThumbnail('.%img%',270,'auto',img)%-->
                     <img src="/images/parser/Banner_Kiosk000042668000000115.jpeg?v=2" alt="" />
                     <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" /> 2 </span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" /> 2 </span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                     <span class="bottom dbottom">
 		<span class="price">от 2370 руб.</span>
@@ -102,11 +102,11 @@
                     <!--%system makeThumbnail('.%img%',270,'auto',img)%-->
                     <img src="/images/parser/Banner_Kiosk000034136000000036.jpeg?v=2" alt="" />
                     <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" /> 2 </span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" /> 4 </span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" /> 2 </span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" /> 4 </span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                     <span class="bottom dbottom">
 		<span class="price">от 3100 руб.</span>
@@ -125,11 +125,11 @@
                     <!--%system makeThumbnail('.%img%',270,'auto',img)%-->
                     <img src="/images/parser/Banner_Kiosk000036722000000094.jpeg?v=2" alt="" />
                     <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" /> 2 </span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" /> 2 </span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                     <span class="bottom dbottom">
 		<span class="price">от 3970 руб.</span>
@@ -148,11 +148,11 @@
                     <!--%system makeThumbnail('.%img%',270,'auto',img)%-->
                     <img src="/images/parser/Banner_Kiosk000034134000000038.jpeg?v=2" alt="" />
                     <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" /> 2 </span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" /> 4 </span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" /> 2 </span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" /> 4 </span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                     <span class="bottom dbottom">
 		<span class="price">от 5770 руб.</span>
@@ -171,11 +171,11 @@
                     <!--%system makeThumbnail('.%img%',270,'auto',img)%-->
                     <img src="/images/parser/Banner_Kiosk000035560000000087.jpeg?v=2" alt="" />
                     <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" /> 2 </span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" /> 2 </span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                     <span class="bottom dbottom">
 		<span class="price">от 6070 руб.</span>
@@ -194,11 +194,11 @@
                     <!--%system makeThumbnail('.%img%',270,'auto',img)%-->
                     <img src="/images/parser/Banner_Kiosk000003216000000031.png?v=2" alt="" />
                     <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                     <span class="bottom dbottom">
 		<span class="price">от 70700 руб.</span>

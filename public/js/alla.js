@@ -102,7 +102,7 @@ $(document).ready(function(){
 		margin: 0,
 		dots: true,
 		nav: true,
-		navText: ['<img src="/templates/almac/img/arr_l.svg" alt="" />','<img src="/templates/almac/img/arr_r.svg" alt="" />'],
+		navText: ['<img src="/images/templates/almac/img/arr_l.svg" alt="" />','<img src="/images/templates/almac/img/arr_r.svg" alt="" />'],
 		autoplay: true,
 		autoplayTimeout: 5000,
 		autoplaySpeed : 500,
@@ -113,7 +113,7 @@ $(document).ready(function(){
 		loop: true,
 		dots: true,
 		nav: true,
-		navText: ['<img src="/templates/almac/img/arr_l.svg" alt="" />','<img src="/templates/almac/img/arr_r.svg" alt="" />'],
+		navText: ['<img src="/images/templates/almac/img/arr_l.svg" alt="" />','<img src="/images/templates/almac/img/arr_r.svg" alt="" />'],
 		autoplay: true,
 		autoplayTimeout: 3000,
 		autoplaySpeed : 500,
@@ -134,7 +134,7 @@ $(document).ready(function(){
 		loop: true,
 		dots: false,
 		nav: true,
-		navText: ['<img src="/templates/almac/img/arr_l.svg" alt="" />','<img src="/templates/almac/img/arr_r.svg" alt="" />'],
+		navText: ['<img src="/images/templates/almac/img/arr_l.svg" alt="" />','<img src="/images/templates/almac/img/arr_r.svg" alt="" />'],
 		autoplay: true,
 		autoplayTimeout: 3000,
 		autoplaySpeed : 500,
@@ -176,7 +176,7 @@ $(document).ready(function(){
 		margin: 0,
 		dots: true,
 		nav: true,
-		navText: ['<img src="/templates/almac/img/arr_l.svg" alt="" />','<img src="/templates/almac/img/arr_r.svg" alt="" />'],
+		navText: ['<img src="/images/templates/almac/img/arr_l.svg" alt="" />','<img src="/images/templates/almac/img/arr_r.svg" alt="" />'],
 		autoplay: true,
 		autoplayTimeout: 2000,
 		autoplaySpeed : 500,
@@ -190,7 +190,7 @@ $(document).ready(function(){
 		margin: 0,
 		dots: false,
 		nav: true,
-		navText: ['<img src="/templates/almac/img/arr_l.svg" alt="" />','<img src="/templates/almac/img/arr_r.svg" alt="" />'],
+		navText: ['<img src="/images/templates/almac/img/arr_l.svg" alt="" />','<img src="/images/templates/almac/img/arr_r.svg" alt="" />'],
 		autoplay: true,
 		autoplayTimeout: 3000,
 		autoplaySpeed : 500,
@@ -413,7 +413,7 @@ $(document).ready(function(){
 					if (testLine != indexAddInfo) {
 						testLine = indexAddInfo;
 						$('.iaw').remove();
-						$('.mainPage .catalog a:eq('+indexAddInfo+')').after('<div class="iaw"><img class="iawclose" src="/templates/almac/img/close@3x.png" alt="" /><div class="iawlines"><span></span><span></span><span></span><span></span></div>'+content+'</div>');
+						$('.mainPage .catalog a:eq('+indexAddInfo+')').after('<div class="iaw"><img class="iawclose" src="/images/templates/almac/img/close@3x.png" alt="" /><div class="iawlines"><span></span><span></span><span></span><span></span></div>'+content+'</div>');
 						var linkPage = '';
 						var h2 = $('.iaw h2').text();
 						var newH2LinkPage = '<a href="'+path+'">'+h2+'</a>';
@@ -440,7 +440,7 @@ $(document).ready(function(){
 						margin: 0,
 						dots: true,
 						nav: true,
-						navText: ['<img src="/templates/almac/img/arr_l.svg" alt="" />','<img src="/templates/almac/img/arr_r.svg" alt="" />'],
+						navText: ['<img src="/images/templates/almac/img/arr_l.svg" alt="" />','<img src="/images/templates/almac/img/arr_r.svg" alt="" />'],
 						autoplay: true,
 						autoplayTimeout: 2000,
 						autoplaySpeed : 500,

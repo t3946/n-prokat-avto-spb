@@ -20,20 +20,20 @@
                 <span class="mprice">от 26600 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003298000000010_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003298000000010_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003298000000010.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> MT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> MT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 26600 руб.</span>
@@ -50,20 +50,20 @@
                 <span class="mprice">от 28300 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003296000000061_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003296000000061_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003296000000061.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 28300 руб.</span>
@@ -80,20 +80,20 @@
                 <span class="mprice">от 34100 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003282000000014_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003282000000014_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003282000000014.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> MT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> MT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 34100 руб.</span>
@@ -110,20 +110,20 @@
                 <span class="mprice">от 35300 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003279000000043_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003279000000043_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003279000000043.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> MT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> MT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 35300 руб.</span>
@@ -140,20 +140,20 @@
                 <span class="mprice">от 36400 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003276000000044_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003276000000044_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003276000000044.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 36400 руб.</span>
@@ -170,20 +170,20 @@
                 <span class="mprice">от 37000 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003290000000022_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003290000000022_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003290000000022.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /></span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />1</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />5</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /></span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /></span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />1</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />5</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /></span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 37000 руб.</span>
@@ -200,20 +200,20 @@
                 <span class="mprice">от 39900 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003281000000016_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003281000000016_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003281000000016.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 39900 руб.</span>
@@ -230,20 +230,20 @@
                 <span class="mprice">от 40400 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003297000000009_550_auto_png.png" alt="" title="" decoding="async" />
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Logoimageextra0000031841_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003297000000009_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Logoimageextra0000031841_550_auto_png.png" alt="" title="" decoding="async" />
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003297000000009.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 40400 руб.</span>
@@ -260,20 +260,20 @@
                 <span class="mprice">от 50500 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000020304000000072_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000020304000000072_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000020304000000072.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 50500 руб.</span>
@@ -290,20 +290,20 @@
                 <span class="mprice">от 53000 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003295000000045_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003295000000045_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003295000000045.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 53000 руб.</span>
@@ -320,20 +320,20 @@
                 <span class="mprice">от 53000 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000020324000000073_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000020324000000073_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000020324000000073.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 53000 руб.</span>
@@ -350,20 +350,20 @@
                 <span class="mprice">от 55500 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003217000000035_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003217000000035_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003217000000035.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />5</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />5</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 55500 руб.</span>
@@ -380,20 +380,20 @@
                 <span class="mprice">от 55500 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003292000000026_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003292000000026_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003292000000026.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 55500 руб.</span>
@@ -410,20 +410,20 @@
                 <span class="mprice">от 63100 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000004326000000032_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000004326000000032_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000004326000000032.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 63100 руб.</span>
@@ -440,20 +440,20 @@
                 <span class="mprice">от 65600 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003278000000034_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003278000000034_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003278000000034.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 65600 руб.</span>
@@ -470,20 +470,20 @@
                 <span class="mprice">от 67700 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003217000000035_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003217000000035_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003217000000035.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />5</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />5</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 67700 руб.</span>
@@ -500,20 +500,20 @@
                 <span class="mprice">от 70700 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003216000000031_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003216000000031_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003216000000031.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 70700 руб.</span>
@@ -530,20 +530,20 @@
                 <span class="mprice">от 70700 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000034129000000033_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000034129000000033_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000034129000000033.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />4</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />4</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 70700 руб.</span>
@@ -560,20 +560,20 @@
                 <span class="mprice">от 74800 руб.<span>в месяц</span></span>
                 <div class="card-carousel">
                     <div class="owl-carousel  owl-theme">
-                        <img class="imgloader" src="/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003217000000035_550_auto_png.png" alt="" title="" decoding="async" />
+                        <img class="imgloader" src="/images/templates/almac/img/car_tr.png" data-src="/images/cms/thumbs/9ed3ac8f031ea9a889524668e76b71ebd6ebabad/Banner_Kiosk000003217000000035_550_auto_png.png" alt="" title="" decoding="async" />
 
                     </div>
                 </div>
                 <div class="bgImage" style="height: 150px;">
-                    <img class="card-image" src="/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
+                    <img class="card-image" src="/images/templates/almac/img/lock.jpg" loading="lazy" alt="" style="width: 100%;">
                     <img class="card-image" src="/images/parser/Banner_Kiosk000003217000000035.png" loading="lazy" alt="" style="width: 100%; position: absolute; left: 0">
                 </div>
                 <span class="params">
-		<span><img src="/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
-		<span><img src="/templates/almac/img/suitcase@3x.png" alt="" />2</span>
-		<span><img src="/templates/almac/img/doors@3x.png" alt="" />5</span>
-		<span><img src="/templates/almac/img/gear@3x.png" alt="" /> AT </span>
-		<span><img src="/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
+		<span><img src="/images/templates/almac/img/seats@3x.png" alt="" /> 5 </span>
+		<span><img src="/images/templates/almac/img/suitcase@3x.png" alt="" />2</span>
+		<span><img src="/images/templates/almac/img/doors@3x.png" alt="" />5</span>
+		<span><img src="/images/templates/almac/img/gear@3x.png" alt="" /> AT </span>
+		<span><img src="/images/templates/almac/img/conditioners@3x.png" alt="" />A/C</span>
 	</span>
                 <span class="bottom dbottom">
 		<span class="price">от 74800 руб.</span>
