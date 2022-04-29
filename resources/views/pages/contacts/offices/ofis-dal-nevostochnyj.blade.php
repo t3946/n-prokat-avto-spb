@@ -6,10 +6,10 @@
 
 @section('content')
 
-    <div itemscope="" itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs"><span itemscope="" itemprop="itemListElement" class="B_firstCrumb" itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Главная</span><meta itemprop="position" content="1"></a></span><span class="sep">»</span><a href="/kontakty/">Контакты</a><span class='sep'>»</span><span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem"><link href="/kontakty/ofis-dal-nevostochnyj/" itemprop="url item"><span itemprop="name" class='current'>Офис «Дальневосточный»</span><meta itemprop="position" content="2"></span></div>
-    <div class="toph1"><h1>Офис «Дальневосточный»</h1></div>
+    <div itemscope="" itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs"><span itemscope="" itemprop="itemListElement" class="B_firstCrumb" itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Главная</span><meta itemprop="position" content="1"></a></span><span class="sep">»</span><a href="/kontakty/">Контакты</a><span class='sep'>»</span><span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem"><link href="/kontakty/ofis-dal-nevostochnyj/" itemprop="url item"><span itemprop="name" class='current'>Офис «Васнецовский»</span><meta itemprop="position" content="2"></span></div>
+    <div class="toph1"><h1>Офис «Васнецовский»</h1></div>
     <div class="contInfoPage">
-        <div class="sliderMap">
+        <div class="sliderMap d-none">
             <div class="owl-carousel">
                 <img class="imgloader" src="/images/contacts/icons/car_tr.png" data-src="/images/contacts/Priceimageextra0000393561_550_auto_jpeg.jpeg" alt="" title="" decoding="async" />
                 <img class="imgloader" src="/images/contacts/icons/car_tr.png" data-src="/images/contacts/Priceimageextra0000393592_550_auto_jpeg.jpeg" alt="" title="" decoding="async" />

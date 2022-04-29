@@ -18,9 +18,9 @@
     <div class="toph1"><h1>Контакты</h1></div>
     <span class="ttitle taleft">Офисы обслуживания клиентов в г. Санкт-Петербург</span>
 
-    <div class="faqtabs">
+    <div class="faqtabs d-none">
         <span class="butMobTabs">Офисы</span>
-        <div>
+        <div class="d-none">
             <span class="active">Офисы</span>
             <span>Пункты выдачи</span>
         </div>
@@ -36,7 +36,7 @@
                     <th>Подробнее</th>
                 </tr>
                 <tr>
-                    <td>Офис «Дальневосточный»</td>
+                    <td>Офис «Васнецовский»</td>
                     <td> Санкт-Петербург, ПР-КТ Васнецовский д.18, стр 1.</td>
                     <td>с 09:00 до 21:00</td>
                     <td><a class="button" href="/kontakty/ofis-dal-nevostochnyj">Подробнее</a></td>
@@ -129,7 +129,7 @@
 
     <div class="contMiniM m_contTab m_contTab_0">
         <div>
-            <span class="title">Офис «Дальневосточный»</span>
+            <span class="title">Офис «Васнецовский»</span>
             <span class="infoline"><span>Месторасположение:</span>Санкт-Петербург, ПР-КТ Васнецовский д.18, стр 1.</span>
             <span class="infoline"><span>Режим работы:</span>с 09:00 до 21:00</span>
             <a class="button" href="/kontakty/ofis-dal-nevostochnyj/">Подробнее</a>
