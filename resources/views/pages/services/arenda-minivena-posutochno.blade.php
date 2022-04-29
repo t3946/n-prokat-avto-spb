@@ -69,7 +69,7 @@
                     <ul class="pricesmob"><li><span>1-3 дня</span><span>2470 руб.</span></li><li><span>4-6 дней</span><span>2300 руб.</span></li><li><span>7-14 дней</span><span>2100 руб.</span></li><li><span>от 15 дней</span><span>2070 руб.</span></li></ul>
                     <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="more pushow" data-title="Заявка на бронирование" data-descr="Citroen Berlingo MT" data-butts="Отправить заявку" data-id="000000019">Отправить заявку</span>
+		<span class="more pushow d-none" data-title="Заявка на бронирование" data-descr="Citroen Berlingo MT" data-butts="Отправить заявку" data-id="000000019">Отправить заявку</span>
 	</span>
                 </a><a class="ob_1533" href="/marki/hyundai/hyundai-creta-2-0-at-promo/">
 
@@ -92,7 +92,7 @@
                     <ul class="pricesmob"><li><span>1-3 дня</span><span>2970 руб.</span></li><li><span>4-6 дней</span><span>2770 руб.</span></li><li><span>7-14 дней</span><span>2500 руб.</span></li><li><span>от 15 дней</span><span>2370 руб.</span></li></ul>
                     <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="more pushow" data-title="Заявка на бронирование" data-descr="Hyundai Creta 2.0 AT Promo" data-butts="Отправить заявку" data-id="000000115">Отправить заявку</span>
+		<span class="more pushow d-none" data-title="Заявка на бронирование" data-descr="Hyundai Creta 2.0 AT Promo" data-butts="Отправить заявку" data-id="000000115">Отправить заявку</span>
 	</span>
                 </a><a class="ob_209" href="/katalog/arenda_avtomobilej_klassa_ljuks/bmw_3_f30/">
 
@@ -115,7 +115,7 @@
                     <ul class="pricesmob"><li><span>1-3 дня</span><span>3970 руб.</span></li><li><span>4-6 дней</span><span>3600 руб.</span></li><li><span>7-14 дней</span><span>3300 руб.</span></li><li><span>от 15 дней</span><span>3100 руб.</span></li></ul>
                     <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="more pushow" data-title="Заявка на бронирование" data-descr="BMW 3-er AT (F30)" data-butts="Отправить заявку" data-id="000000036">Отправить заявку</span>
+		<span class="more pushow d-none" data-title="Заявка на бронирование" data-descr="BMW 3-er AT (F30)" data-butts="Отправить заявку" data-id="000000036">Отправить заявку</span>
 	</span>
                 </a><a class="ob_1338" href="/katalog/arenda_avtomobilej_klassa_krossover/bmw-x2-at-f39/">
 
@@ -138,7 +138,7 @@
                     <ul class="pricesmob"><li><span>1-3 дня</span><span>4970 руб.</span></li><li><span>4-6 дней</span><span>4600 руб.</span></li><li><span>7-14 дней</span><span>4200 руб.</span></li><li><span>от 15 дней</span><span>3970 руб.</span></li></ul>
                     <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="more pushow" data-title="Заявка на бронирование" data-descr="BMW X2 AT (F39)" data-butts="Отправить заявку" data-id="000000094">Отправить заявку</span>
+		<span class="more pushow d-none" data-title="Заявка на бронирование" data-descr="BMW X2 AT (F39)" data-butts="Отправить заявку" data-id="000000094">Отправить заявку</span>
 	</span>
                 </a><a class="ob_217" href="/katalog/arenda_avtomobilej_klassa_ljuks/bmw_5_g30/">
 
@@ -161,7 +161,7 @@
                     <ul class="pricesmob"><li><span>1-3 дня</span><span>7170 руб.</span></li><li><span>4-6 дней</span><span>6670 руб.</span></li><li><span>7-14 дней</span><span>6170 руб.</span></li><li><span>от 15 дней</span><span>5770 руб.</span></li></ul>
                     <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="more pushow" data-title="Заявка на бронирование" data-descr="BMW 5-er AT (G30)" data-butts="Отправить заявку" data-id="000000038">Отправить заявку</span>
+		<span class="more pushow d-none" data-title="Заявка на бронирование" data-descr="BMW 5-er AT (G30)" data-butts="Отправить заявку" data-id="000000038">Отправить заявку</span>
 	</span>
                 </a><a class="ob_1332" href="/katalog/arenda_avtomobilej_klassa_krossover/bmw-x3-iii-at-g1/">
 
@@ -184,7 +184,7 @@
                     <ul class="pricesmob"><li><span>1-3 дня</span><span>7570 руб.</span></li><li><span>4-6 дней</span><span>7070 руб.</span></li><li><span>7-14 дней</span><span>6470 руб.</span></li><li><span>от 15 дней</span><span>6070 руб.</span></li></ul>
                     <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="more pushow" data-title="Заявка на бронирование" data-descr="BMW X3 III AT (G01)" data-butts="Отправить заявку" data-id="000000087">Отправить заявку</span>
+		<span class="more pushow d-none" data-title="Заявка на бронирование" data-descr="BMW X3 III AT (G01)" data-butts="Отправить заявку" data-id="000000087">Отправить заявку</span>
 	</span>
                 </a><a class="ob_1228" href="/arenda-s-vykupom/klass-biznes/bmw_f10/">
 
@@ -207,7 +207,7 @@
                     <ul class="pricesmob"><li><span>12 мес.</span><span>161300 руб.</span></li><li><span>18 мес.</span><span>120900 руб.</span></li><li><span>24 мес.</span><span>100200 руб.</span></li><li><span>36 мес.</span><span>77900 руб.</span></li></ul>
                     <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="more pushow" data-title="Заявка на бронирование" data-descr="BMW 5-er AT (F10)" data-butts="Отправить заявку" data-id="">Отправить заявку</span>
+		<span class="more pushow d-none" data-title="Заявка на бронирование" data-descr="BMW 5-er AT (F10)" data-butts="Отправить заявку" data-id="">Отправить заявку</span>
 	</span>
                 </a>
             </div>

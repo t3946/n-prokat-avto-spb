@@ -43,7 +43,7 @@
 
                 <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="button pushow" data-title="Заявка на бронирование" data-descr="Автомобили по подписке" data-butts="Отправить заявку" data-id="000000073">Оставить заявку</sapn>
+		<span class="button pushow d-none" data-title="Заявка на бронирование" data-descr="Автомобили по подписке" data-butts="Отправить заявку" data-id="000000073">Оставить заявку</sapn>
 	</span>
             </a>
             <a class="ob_1513 mcarPod" href="/podpiska_na_avtomobil/hyundai_solaris_2021_podpiska/" data-id="1513">
@@ -78,7 +78,7 @@
 
                 <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="button pushow" data-title="Заявка на бронирование" data-descr="Автомобили по подписке" data-butts="Отправить заявку" data-id="000000072">Оставить заявку</sapn>
+		<span class="button pushow d-none" data-title="Заявка на бронирование" data-descr="Автомобили по подписке" data-butts="Отправить заявку" data-id="000000072">Оставить заявку</sapn>
 	</span>
             </a>
             <a class="ob_1519 mcarPod" href="/podpiska_na_avtomobil/renault_kaptur_2021_podpiska/" data-id="1519">
@@ -113,7 +113,7 @@
 
                 <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="button pushow" data-title="Заявка на бронирование" data-descr="Автомобили по подписке" data-butts="Отправить заявку" data-id="000000056">Оставить заявку</sapn>
+		<span class="button pushow d-none" data-title="Заявка на бронирование" data-descr="Автомобили по подписке" data-butts="Отправить заявку" data-id="000000056">Оставить заявку</sapn>
 	</span>
             </a>
             <a class="ob_1520 mcarPod" href="/podpiska_na_avtomobil/renault_arkana_2021_podpiska/" data-id="1520">
@@ -148,7 +148,7 @@
 
                 <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="button pushow" data-title="Заявка на бронирование" data-descr="Автомобили по подписке" data-butts="Отправить заявку" data-id="000000086">Оставить заявку</sapn>
+		<span class="button pushow d-none" data-title="Заявка на бронирование" data-descr="Автомобили по подписке" data-butts="Отправить заявку" data-id="000000086">Оставить заявку</sapn>
 	</span>
             </a>
             <a class="ob_1521 mcarPod" href="/podpiska_na_avtomobil/hyundai_sonata_2021_podpiska/" data-id="1521">
@@ -183,7 +183,7 @@
 
                 <span class="bottom mbottom">
 		<span class="btarifs">Показать тарифы</span>
-		<span class="button pushow" data-title="Заявка на бронирование" data-descr="Автомобили по подписке" data-butts="Отправить заявку" data-id="000000082">Оставить заявку</sapn>
+		<span class="button pushow d-none" data-title="Заявка на бронирование" data-descr="Автомобили по подписке" data-butts="Отправить заявку" data-id="000000082">Оставить заявку</sapn>
 	</span>
             </a>
 
