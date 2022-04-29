@@ -34,6 +34,10 @@ Route::get('/uslugi', function () {
     return view('pages.services');
 });
 
+Route::get('/podpiska_na_avtomobil/volkswagen_polo_2020_podpiska/', function () {
+    return view('pages.subscribe.volkswagen_polo_2020_podpiska');
+});
+
 Route::prefix('uslugi')->group(function () {
     Route::get('/', function () {
         return view('pages.services');
