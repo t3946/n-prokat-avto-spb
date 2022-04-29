@@ -22,7 +22,6 @@
             <nav>
                 <a href="/katalog/">Автомобили</a>
                 <a href="/podpiska_na_avtomobil/">Подписка</a>
-                <a href="/arenda-s-vykupom/">Аренда с выкупом</a>
                 <a href="/uslugi/">Услуги</a>
                 <a href="/tarify/">Тарифы</a>
                 <a href="/voprosy/">Вопросы и условия</a>

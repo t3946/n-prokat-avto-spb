@@ -30,10 +30,6 @@ Route::get('/arenda-s-vykupom', function () {
     return view('pages.arenda-s-vykupom');
 });
 
-Route::get('/arenda-s-vykupom', function () {
-    return view('pages.arenda-s-vykupom');
-});
-
 Route::get('/uslugi', function () {
     return view('pages.services');
 });
