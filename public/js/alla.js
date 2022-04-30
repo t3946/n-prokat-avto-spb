@@ -779,7 +779,7 @@ $(document).ready(function(){
 	console.log(file);
 
     $.ajax({
-      url: 'https://avto-prokat.spb.ru/os/uploads-files.php',
+      url: '/os/uploads-files.php',
       type: 'POST',
       cache: false,
       data: {

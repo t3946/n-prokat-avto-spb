@@ -9,8 +9,8 @@
     <div class="slider">
         <div class="owl-carousel owl-loaded owl-drag">
 
-            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2320px, 0px, 0px); transition: all 0s ease 0s; width: 9280px;"><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502473.jpeg" alt="" src="./images/main/Logodesktop0000502473.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502533.jpeg" alt="" src="./images/main/Logomobile0000502533.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502434.jpeg" alt="" src="./images/main/Logodesktop0000502434.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502554.jpeg" alt="" src="./images/main/Logomobile0000502554.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item active" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000502311.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502491.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000507162.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502502.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502473.jpeg" alt="" src="./images/main/Logodesktop0000502473.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502533.jpeg" alt="" src="./images/main/Logomobile0000502533.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502434.jpeg" alt="" src="./images/main/Logodesktop0000502434.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502554.jpeg" alt="" src="./images/main/Logomobile0000502554.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000502311.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502491.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000507162.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502502.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><img src="./images/main/arr_l.svg" alt=""></button><button type="button" role="presentation" class="owl-next"><img src="./images/main/arr_r.svg" alt=""></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
-        <form class="slform d-none" method="post" action="https://avto-prokat.spb.ru/">
+            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2320px, 0px, 0px); transition: all 0s ease 0s; width: 9280px;"><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502473.jpeg" alt="" src="./images/main/Logodesktop0000502473.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502533.jpeg" alt="" src="./images/main/Logomobile0000502533.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502434.jpeg" alt="" src="./images/main/Logodesktop0000502434.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502554.jpeg" alt="" src="./images/main/Logomobile0000502554.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item active" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000502311.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502491.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000507162.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502502.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502473.jpeg" alt="" src="./images/main/Logodesktop0000502473.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502533.jpeg" alt="" src="./images/main/Logomobile0000502533.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502434.jpeg" alt="" src="./images/main/Logodesktop0000502434.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502554.jpeg" alt="" src="./images/main/Logomobile0000502554.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000502311.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502491.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000507162.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502502.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><img src="/images/origin/arr_l.svg" alt=""></button><button type="button" role="presentation" class="owl-next"><img src="/images/origin/arr_r.svg" alt=""></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+        <form class="slform d-none" method="post" action="/">
             <div class="jq-selectbox jqselect"><select name="data[Авто]">
                     <option value="">Автомобиль</option>
                     <option value="000000144">Tesla Model S 100D</option><option value="000000143">Tesla Model X 100D</option><option value="000000147">Tesla Model S Perfomance</option><option value="000000142">Tesla Model 3 Perfomance</option><option value="000000042">Lada Largus MT</option><option value="000000019">Citroen Berlingo MT</option><option value="000000045">Hyundai Elantra AT</option><option value="000000091">Skoda Octavia A8 AT</option><option value="000000022">Chevrolet Orlando MT</option><option value="000000130">Lada Largus Cross MT</option><option value="000000068">Chevrolet Orlando AT</option><option value="000000122">Peugeot Traveller AT</option><option value="000000123">Hyundai Starex H1 AT</option><option value="000000053">Mercedes Vito AT (W447)</option><option value="000000133">Hyundai H-1 Business AT</option><option value="000000116">Skoda Rapid МT</option><option value="000000044">Volkswagen Polo АТ</option><option value="000000055">Kia Rio IV AT</option><option value="000000009">Hyundai Solaris II AT</option><option value="000000127">Kia Rio X-Line AT</option><option value="000000072">Hyundai Solaris R II AT</option><option value="000000073">Volkswagen Polo VI AT</option><option value="000000099">Volkswagen Polo MT Promo</option><option value="000000140">Renault Logan AT Promo</option><option value="000000069">Volkswagen Polo АТ Promo</option><option value="000000059">Hyundai Solaris II Promo</option><option value="000000058">Hyundai Creta AT Promo</option><option value="000000077">Kia Optima IV AT</option><option value="000000036">BMW 3-er AT (F30)</option><option value="000000079">Audi A3 III (8V)</option><option value="000000054">Mercedes C-class (W205)</option><option value="000000082">Hyundai Sonata AT</option><option value="000000033">Mercedes E-class (W212 R)</option><option value="000000032">Infiniti Q50 AT</option><option value="000000041">Genesis G80 AT</option><option value="000000028">Mercedes E-class (W213)</option><option value="000000038">BMW 5-er AT (G30)</option><option value="000000105">Mercedes E-class 4MATIC (W213)</option><option value="000000131">Renault Duster 4WD AT</option><option value="000000056">Renault Kaptur AT</option><option value="000000035">Hyundai Creta AT</option><option value="000000086">Renault Arkana AT</option><option value="000000137">Hyundai Creta II AT</option><option value="000000132">Haval Jolion AT</option><option value="000000138">Geely Coolray</option><option value="000000085">Volkswagen Tiguan II MT</option><option value="000000089">Haval F7 AT</option><option value="000000084">Haval F7x AT</option><option value="000000057">Kia Sportage AT</option><option value="000000095">Mitsubishi Outlander AT</option><option value="000000128">Chery Tiggo 8 PRO AT</option><option value="000000062">Audi Q3 AT</option><option value="000000094">BMW X2 AT (F39)</option><option value="000000081">Mercedes GLA</option><option value="000000146">Mazda CX-5 AT</option><option value="000000090">Skoda Kodiaq AT</option><option value="000000136">Toyota RAV4 AT</option><option value="000000093">BMW X4 AT (F26)</option><option value="000000088">Volkswagen Touareg II</option><option value="000000087">BMW X3 III AT (G01)</option><option value="000000135">Mercedes GLC (X253)</option><option value="000000071">Mercedes GLC Coupe (C253)</option><option value="000000139">Volvo XC90 II</option><option value="000000065">BMW X5 III AT (F15)</option><option value="000000070">BMW X6 II AT (F16)</option><option value="000000121">Volkswagen Touareg III</option><option value="000000126">Audi Q7 II</option><option value="000000120">BMW X5 IV AT (G05)</option><option value="000000119">BMW X6 III AT (G06)</option>
@@ -21,7 +21,7 @@
             <input type="submit" value="Оставить заявку">
             <p class="politics-link" style="max-width: 280px; font-size: 10px;">
                 Нажимая кнопку "Отправить" вы соглашаетесь с
-                <a href="https://avto-prokat.spb.ru/privacy_policy/" target="_blank">пользовательским соглашением</a>
+                <a href="/privacy_policy/" target="_blank">пользовательским соглашением</a>
             </p>
         </form>
     </div>
@@ -37,7 +37,7 @@
                     <option value="max">По цене ↑</option>
                 </select><div class="jq-selectbox__select"><div class="jq-selectbox__select-text">По цене ↓</div><div class="jq-selectbox__trigger"><div class="jq-selectbox__trigger-arrow"></div></div></div><div class="jq-selectbox__dropdown" style="display: none;"><ul><li class="selected sel" style="">По цене ↓</li><li style="">По цене ↑</li></ul></div></div>
         </div>
-        <form class="filter" method="post" action="https://avto-prokat.spb.ru/">
+        <form class="filter" method="post" action="/">
             <div class="jq-selectbox jqselect"><select name="catalog">
                     <option value="">Категория</option>
                     <option value="/katalog/klass-promo/">Класс промо</option><option value="/katalog/arenda_avtomobilej_klassa_standart/">Класс стандарт</option><option value="/katalog/arenda_avtomobilej_klassa_komfort/">Класс комфорт</option><option value="/katalog/arenda_avtomobilej_klassa_krossover/">Класс кроссоверы</option><option value="/katalog/arenda_minivenov/">Класс минивены</option><option value="/katalog/arenda_avtomobilej_klassa_ljuks/">Класс бизнес</option><option value="/katalog/arenda_avtomobilej_tesla/">Класс электромобили</option><option value="/katalog/arenda_avtomobilej_klassa_sommercial/">Класс коммерческий</option>
@@ -63,7 +63,7 @@
 
 
 
-            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2440px, 0px, 0px); transition: all 0.5s ease 0s; width: 4881px;"><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><img src="./images/main/arr_l.svg" alt=""></button><button type="button" role="presentation" class="owl-next"><img src="./images/main/arr_r.svg" alt=""></button></div><div class="owl-dots d-none"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
+            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2440px, 0px, 0px); transition: all 0.5s ease 0s; width: 4881px;"><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><img src="/images/origin/arr_l.svg" alt=""></button><button type="button" role="presentation" class="owl-next"><img src="/images/origin/arr_r.svg" alt=""></button></div><div class="owl-dots d-none"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
     </div>
     <!--
     <div class="app">
@@ -147,130 +147,130 @@
 
 
                 <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1440px, 0px, 0px); transition: all 0.5s ease 0s; width: 5580px;"><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/audi/" title="Audi">
+                                <span title="Audi">
                                     <img class="" src="./images/main/audi_logo_icon_145842_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/audi_logo_icon_145842_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/chevrolet/" title="Chevrolet">
+                                <span title="Chevrolet">
                                     <img class="" src="./images/main/chevrolet_logo_icon_145836_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/chevrolet_logo_icon_145836_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/kia/" title="KIA">
+                                <span title="KIA">
                                     <img class="" src="./images/main/kia_logo_icon_181338_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/kia_logo_icon_181338_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/citroen/" title="Citroen">
+                                <span title="Citroen">
                                     <img class="" src="./images/main/citroen_logo_icon_145834_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/citroen_logo_icon_145834_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/hyundai/" title="Hyundai">
+                                <span title="Hyundai">
                                     <img class="" src="./images/main/hyundai_logo_icon_145819_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/hyundai_logo_icon_145819_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/lada/" title="Lada">
+                                <span title="Lada">
                                     <img class="" src="./images/main/lada_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/lada_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/bmw/" title="BMW">
+                                <span title="BMW">
                                     <img class="" src="./images/main/bmw_logo_icon_145840_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/bmw_logo_icon_145840_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/volkswagen/" title="Volkswagen">
+                                <span title="Volkswagen">
                                     <img class="" src="./images/main/volkswagen_logo_icon_145764_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/volkswagen_logo_icon_145764_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item active" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/genesis/" title="Genesis">
+                                <span title="Genesis">
                                     <img class="" src="./images/main/genesis_logo_icon_145824_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/genesis_logo_icon_145824_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item active" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/mitsubishi/" title="Mitsubishi">
+                                <span title="Mitsubishi">
                                     <img class="" src="./images/main/mitsubishi_logo_icon_145793_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/mitsubishi_logo_icon_145793_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item active" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/skoda/" title="Skoda">
+                                <span title="Skoda">
                                     <img class="" src="./images/main/skoda_logo_icon_145773_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/skoda_logo_icon_145773_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item active" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/infiniti/" title="Infiniti">
+                                <span title="Infiniti">
                                     <img class="" src="./images/main/infiniti_logo_icon_145818_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/infiniti_logo_icon_145818_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item active" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/haval/" title="Haval">
+                                <span title="Haval">
                                     <img class="" src="./images/main/haval02_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/haval02_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item active" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/renault/" title="Renault">
+                                <span title="Renault">
                                     <img class="" src="./images/main/renault_logo_icon_145781_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/renault_logo_icon_145781_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/mercedes/" title="Mercedes">
+                                <span title="Mercedes">
                                     <img class="" src="./images/main/mercedes_benz_logo_icon_145797_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/mercedes_benz_logo_icon_145797_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/audi/" title="Audi">
+                                <span title="Audi">
                                     <img class="" src="./images/main/audi_logo_icon_145842_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/audi_logo_icon_145842_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/chevrolet/" title="Chevrolet">
+                                <span title="Chevrolet">
                                     <img class="" src="./images/main/chevrolet_logo_icon_145836_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/chevrolet_logo_icon_145836_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/kia/" title="KIA">
+                                <span title="KIA">
                                     <img class="" src="./images/main/kia_logo_icon_181338_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/kia_logo_icon_181338_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/citroen/" title="Citroen">
+                                <span title="Citroen">
                                     <img class="" src="./images/main/citroen_logo_icon_145834_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/citroen_logo_icon_145834_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/hyundai/" title="Hyundai">
+                                <span title="Hyundai">
                                     <img class="" src="./images/main/hyundai_logo_icon_145819_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/hyundai_logo_icon_145819_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/lada/" title="Lada">
+                                <span title="Lada">
                                     <img class="" src="./images/main/lada_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/lada_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/bmw/" title="BMW">
+                                <span title="BMW">
                                     <img class="" src="./images/main/bmw_logo_icon_145840_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/bmw_logo_icon_145840_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/volkswagen/" title="Volkswagen">
+                                <span title="Volkswagen">
                                     <img class="" src="./images/main/volkswagen_logo_icon_145764_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/volkswagen_logo_icon_145764_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/genesis/" title="Genesis">
+                                <span title="Genesis">
                                     <img class="" src="./images/main/genesis_logo_icon_145824_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/genesis_logo_icon_145824_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/mitsubishi/" title="Mitsubishi">
+                                <span title="Mitsubishi">
                                     <img class="" src="./images/main/mitsubishi_logo_icon_145793_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/mitsubishi_logo_icon_145793_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/skoda/" title="Skoda">
+                                <span title="Skoda">
                                     <img class="" src="./images/main/skoda_logo_icon_145773_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/skoda_logo_icon_145773_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/infiniti/" title="Infiniti">
+                                <span  title="Infiniti">
                                     <img class="" src="./images/main/infiniti_logo_icon_145818_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/infiniti_logo_icon_145818_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/haval/" title="Haval">
+                                <span  title="Haval">
                                     <img class="" src="./images/main/haval02_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/haval02_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/renault/" title="Renault">
+                                <span  title="Renault">
                                     <img class="" src="./images/main/renault_logo_icon_145781_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/renault_logo_icon_145781_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/mercedes/" title="Mercedes">
+                                <span  title="Mercedes">
                                     <img class="" src="./images/main/mercedes_benz_logo_icon_145797_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/mercedes_benz_logo_icon_145797_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
+                                </span>
                             </li></div><div class="owl-item cloned" style="width: 160px; margin-right: 20px;"><li>
-                                <a href="https://avto-prokat.spb.ru/marki/audi/" title="Audi">
+                                <span  title="Audi">
                                     <img class="" src="./images/main/audi_logo_icon_145842_100_100_png.png" data-src="/images/cms/thumbs/f7e51cf15ae5ef78312293815b1b7da087a9cd25/audi_logo_icon_145842_100_100_png.png" alt="" title="" decoding="async">
-                                </a>
-                            </li></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><img src="./images/main/arr_l.svg" alt=""></button><button type="button" role="presentation" class="owl-next"><img src="./images/main/arr_r.svg" alt=""></button></div><div class="owl-dots disabled"></div></ul>
+                                </span>
+                            </li></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><img src="/images/origin/arr_l.svg" alt=""></button><button type="button" role="presentation" class="owl-next"><img src="/images/origin/arr_r.svg" alt=""></button></div><div class="owl-dots disabled"></div></ul>
         </div>
     </div>
 

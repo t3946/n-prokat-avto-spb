@@ -15,7 +15,7 @@
     <meta name="yandex-verification" content="c3e1bbe44f6d8653"/>
 
 
-    <link rel="canonical" href="https://avto-prokat.spb.ru/kontakty/"/>
+    <link rel="canonical" href="/kontakty/"/>
     <meta name="resourceId" content="8"/>
 
 
