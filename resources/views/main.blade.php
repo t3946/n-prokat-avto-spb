@@ -9,7 +9,121 @@
     <div class="slider">
         <div class="owl-carousel owl-loaded owl-drag">
 
-            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2320px, 0px, 0px); transition: all 0s ease 0s; width: 9280px;"><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502473.jpeg" alt="" src="./images/main/Logodesktop0000502473.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502533.jpeg" alt="" src="./images/main/Logomobile0000502533.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502434.jpeg" alt="" src="./images/main/Logodesktop0000502434.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502554.jpeg" alt="" src="./images/main/Logomobile0000502554.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item active" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000502311.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502491.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000507162.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502502.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502473.jpeg" alt="" src="./images/main/Logodesktop0000502473.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502533.jpeg" alt="" src="./images/main/Logomobile0000502533.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" data-src="/images/parser/slider/Logodesktop0000502434.jpeg" alt="" src="./images/main/Logodesktop0000502434.jpeg"><img class="img_m" data-src="/images/parser/slider/Logomobile0000502554.jpeg" alt="" src="./images/main/Logomobile0000502554.jpeg"><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000502311.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502491.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div><div class="owl-item cloned" style="width: 1160px;"><div class="item"><div class="linkslider"><img class="img_d" src="./images/main/Logodesktop0000507162.jpeg" alt=""><img class="img_m" src="./images/main/Logomobile0000502502.jpeg" alt=""><div class="info"><span class="title"></span><span class="descr"></span></div></div></div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><img src="/images/origin/arr_l.svg" alt=""></button><button type="button" role="presentation" class="owl-next"><img src="/images/origin/arr_r.svg" alt=""></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+            <div class="owl-stage-outer">
+                <div class="owl-stage" style="transform: translate3d(-2320px, 0px, 0px); transition: all 0s ease 0s; width: 9280px;">
+                    <div class="owl-item cloned" style="width: 1160px;">
+                        <div class="item">
+                            <div class="linkslider">
+                                <img class="img_d" data-src="/images/parser/slider/1.jpg" alt="" src="/images/parser/slider/1.jpg">
+                                <img class="img_m" data-src="/images/parser/slider/1.jpg" alt="" src="/images/parser/slider/1.jpg">
+                                <div class="info">
+                                    <span class="title"></span>
+                                    <span class="descr"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+{{--                    <div class="owl-item cloned" style="width: 1160px;">--}}
+{{--                        <div class="item">--}}
+{{--                            <div class="linkslider">--}}
+{{--                                <img class="img_d" data-src="/images/parser/slider/Logodesktop0000502434.jpeg" alt="" src="./images/main/Logodesktop0000502434.jpeg">--}}
+{{--                                <img class="img_m" data-src="/images/parser/slider/Logomobile0000502554.jpeg" alt="" src="./images/main/Logomobile0000502554.jpeg">--}}
+{{--                                <div class="info">--}}
+{{--                                    <span class="title"></span>--}}
+{{--                                    <span class="descr"></span>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+
+{{--                    <div class="owl-item active" style="width: 1160px;">--}}
+{{--                        <div class="item">--}}
+{{--                            <div class="linkslider">--}}
+{{--                                <img class="img_d" src="./images/main/Logodesktop0000502311.jpeg" alt="">--}}
+{{--                                <img class="img_m" src="./images/main/Logomobile0000502491.jpeg" alt="">--}}
+{{--                                <div class="info">--}}
+{{--                                    <span class="title"></span>--}}
+{{--                                    <span class="descr"></span>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+
+{{--                    <div class="owl-item" style="width: 1160px;">--}}
+{{--                        <div class="item">--}}
+{{--                            <div class="linkslider">--}}
+{{--                                <img class="img_d" src="./images/main/Logodesktop0000507162.jpeg" alt="">--}}
+{{--                                <img class="img_m" src="./images/main/Logomobile0000502502.jpeg" alt="">--}}
+{{--                                <div class="info">--}}
+{{--                                    <span class="title"></span>--}}
+{{--                                    <span class="descr"></span>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+
+{{--                    <div class="owl-item" style="width: 1160px;">--}}
+{{--                        <div class="item">--}}
+{{--                            <div class="linkslider">--}}
+{{--                                <img class="img_d" data-src="/images/parser/slider/Logodesktop0000502473.jpeg" alt="" src="./images/main/Logodesktop0000502473.jpeg">--}}
+{{--                                <img class="img_m" data-src="/images/parser/slider/Logomobile0000502533.jpeg" alt="" src="./images/main/Logomobile0000502533.jpeg">--}}
+{{--                                <div class="info">--}}
+{{--                                    <span class="title"></span>--}}
+{{--                                    <span class="descr"></span>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+
+{{--                    <div class="owl-item" style="width: 1160px;">--}}
+{{--                        <div class="item">--}}
+{{--                            <div class="linkslider">--}}
+{{--                                <img class="img_d" data-src="/images/parser/slider/Logodesktop0000502434.jpeg" alt="" src="./images/main/Logodesktop0000502434.jpeg">--}}
+{{--                                <img class="img_m" data-src="/images/parser/slider/Logomobile0000502554.jpeg" alt="" src="./images/main/Logomobile0000502554.jpeg">--}}
+{{--                                <div class="info">--}}
+{{--                                    <span class="title"></span>--}}
+{{--                                    <span class="descr">--}}
+
+{{--                                    </span>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+
+{{--                    <div class="owl-item cloned" style="width: 1160px;">--}}
+{{--                        <div class="item">--}}
+{{--                            <div class="linkslider">--}}
+{{--                                <img class="img_d" src="./images/main/Logodesktop0000502311.jpeg" alt="">--}}
+{{--                                <img class="img_m" src="./images/main/Logomobile0000502491.jpeg" alt="">--}}
+{{--                                <div class="info">--}}
+{{--                                    <span class="title"></span>--}}
+{{--                                    <span class="descr">--}}
+
+{{--                                    </span>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+
+{{--                    <div class="owl-item cloned" style="width: 1160px;">--}}
+{{--                        <div class="item">--}}
+{{--                            <div class="linkslider">--}}
+{{--                                <img class="img_d" src="./images/main/Logodesktop0000507162.jpeg" alt="">--}}
+{{--                                <img class="img_m" src="./images/main/Logomobile0000502502.jpeg" alt="">--}}
+{{--                                <div class="info">--}}
+{{--                                    <span class="title"></span>--}}
+{{--                                    <span class="descr"></span>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+                </div>
+            </div>
+
+            <div class="owl-nav">
+                <button type="button" role="presentation" class="owl-prev">
+                    <img src="/images/origin/arr_l.svg" alt=""></button><button type="button" role="presentation" class="owl-next"><img src="/images/origin/arr_r.svg" alt=""></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
         <form class="slform d-none" method="post" action="/">
             <div class="jq-selectbox jqselect"><select name="data[Авто]">
                     <option value="">Автомобиль</option>
@@ -63,7 +177,19 @@
 
 
 
-            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2440px, 0px, 0px); transition: all 0.5s ease 0s; width: 4881px;"><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item"><span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><img src="/images/origin/arr_l.svg" alt=""></button><button type="button" role="presentation" class="owl-next"><img src="/images/origin/arr_r.svg" alt=""></button></div><div class="owl-dots d-none"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
+            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2440px, 0px, 0px); transition: all 0.5s ease 0s; width: 4881px;"><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item active" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>Ценим ваше время!<br>Оформим за 15 минут.</span><img src="./images/main/plus1.png" alt=""></span><span class="txt">Ценим ваше время!<br>Мы оформляем машины в прокат всего за 15 минут!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>С доставкой на удобный вам адрес</span><img src="./images/main/plus2.png" alt=""></span><span class="txt">У нас есть автомобиль практически любой марки и класса.<br>Доставим его вам в течении часа!</span></div></div><div class="owl-item cloned" style="width: 386.667px; margin-right: 20px;"><div class="item">
+                            <span class="name"><span>Без ограничений по территории</span><img src="./images/main/plus3.png" alt=""></span><span class="txt">Путешествуй по России!<br>Добавь всего 200 руб/сутки к стоимости аренды.</span></div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><img src="/images/origin/arr_l.svg" alt=""></button><button type="button" role="presentation" class="owl-next"><img src="/images/origin/arr_r.svg" alt=""></button></div><div class="owl-dots d-none"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
     </div>
     <!--
     <div class="app">

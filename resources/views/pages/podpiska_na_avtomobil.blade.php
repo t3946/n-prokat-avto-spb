@@ -37,8 +37,8 @@
 		<span class="more">Подробнее</span>
 	</span>
                 <div class='mobSubPrice'>
-                    <select name='p_months'><option>3 месяца</option><option>6 месяцев</option></select>
-                    <select name='p_probeg'><option>1500 км в месяц</option><option>3000 км в месяц</option></select>
+                    <select name='p_months'><option>3 месяца</option></select>
+                    <select name='p_probeg'><option>1500 км в месяц</option></select>
                 </div>
 
                 <span class="bottom mbottom">
@@ -72,8 +72,8 @@
 		<span class="more">Подробнее</span>
 	</span>
                 <div class='mobSubPrice'>
-                    <select name='p_months'><option>3 месяца</option><option>6 месяцев</option></select>
-                    <select name='p_probeg'><option>1500 км в месяц</option><option>3000 км в месяц</option></select>
+                    <select name='p_months'><option>3 месяца</option></select>
+                    <select name='p_probeg'><option>1500 км в месяц</option></select>
                 </div>
 
                 <span class="bottom mbottom">
@@ -108,8 +108,8 @@
 		<span class="more">Подробнее</span>
 	</span>
                 <div class='mobSubPrice'>
-                    <select name='p_months'><option>3 месяца</option><option>6 месяцев</option></select>
-                    <select name='p_probeg'><option>1500 км в месяц</option><option>3000 км в месяц</option></select>
+                    <select name='p_months'><option>3 месяца</option></select>
+                    <select name='p_probeg'><option>1500 км в месяц</option></select>
                 </div>
 
                 <span class="bottom mbottom">
@@ -143,8 +143,8 @@
 		<span class="more">Подробнее</span>
 	</span>
                 <div class='mobSubPrice'>
-                    <select name='p_months'><option>3 месяца</option><option>6 месяцев</option></select>
-                    <select name='p_probeg'><option>1500 км в месяц</option><option>3000 км в месяц</option></select>
+                    <select name='p_months'><option>3 месяца</option></select>
+                    <select name='p_probeg'><option>1500 км в месяц</option></select>
                 </div>
 
                 <span class="bottom mbottom">
@@ -178,8 +178,8 @@
 		<span class="more">Подробнее</span>
 	</span>
                 <div class='mobSubPrice'>
-                    <select name='p_months'><option>3 месяца</option><option>6 месяцев</option></select>
-                    <select name='p_probeg'><option>1500 км в месяц</option><option>3000 км в месяц</option></select>
+                    <select name='p_months'><option>3 месяца</option></select>
+                    <select name='p_probeg'><option>1500 км в месяц</option></select>
                 </div>
 
                 <span class="bottom mbottom">

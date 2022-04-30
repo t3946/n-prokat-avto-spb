@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="linef">Информация на данном сайте носит исключительно ознакомительный характер и не является
-            публичной офертой <a href="/uslovija_arendy_avtomobilej/">Прочитайте условия договора.</a></div>
+            публичной офертой</div>
         <div class="linef"><p style="text-align: center;">© 2022</p></div>
     </div>
 
