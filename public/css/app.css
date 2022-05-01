@@ -762,7 +762,9 @@ header {position: -webkit-sticky;position: sticky; top: 0; z-index: 999;}
 .header {background: #9b6e30;}
 .header > div {max-width: 1200px; display: flex; margin: 0 auto; align-items: center; justify-content: space-between; padding: 0 20px;}
 .logo {}
-.logo img {display: block; height: 74px;}
+.logo img {display: block; height: 74px;
+max-width: 100%;
+}
 .flex1 {flex: 1;}
 .tel {color: #fff; text-align: center; font-weight: 500; font-size: 19px;}
 .tel span {display: block; font-size: 14px; margin-top: 3px; font-weight: 300;}
@@ -1324,7 +1326,7 @@ table tr td,
 	.mmenu {min-width: 60px; display: flex; align-items: center; justify-content: center; height: 60px;}
 	.mtel {min-width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;}
 	.mtel.show {background: #9b6e30;}
-	.logo img {height: 60px;}
+	.logo img {height: 60px; max-width: 100%}
 
 	.pu {width: 90%;}
 

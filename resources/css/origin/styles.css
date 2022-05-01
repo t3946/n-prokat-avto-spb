@@ -11,7 +11,9 @@ header {position: -webkit-sticky;position: sticky; top: 0; z-index: 999;}
 .header {background: #9b6e30;}
 .header > div {max-width: 1200px; display: -webkit-box; display: -webkit-flex; display: -moz-box; display: -ms-flexbox; display: flex; margin: 0 auto; -webkit-box-align: center; -webkit-align-items: center; -moz-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: justify; -webkit-justify-content: space-between; -moz-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; padding: 0 20px;}
 .logo {}
-.logo img {display: block; height: 74px;}
+.logo img {display: block; height: 74px;
+max-width: 100%;
+}
 .flex1 {-webkit-box-flex: 1;-webkit-flex: 1;-moz-box-flex: 1;-ms-flex: 1;flex: 1;}
 .tel {color: #fff; text-align: center; font-weight: 500; font-size: 19px;}
 .tel span {display: block; font-size: 14px; margin-top: 3px; font-weight: 300;}
@@ -584,7 +586,7 @@ table tr td,
 	.mmenu {min-width: 60px; display: -webkit-box; display: -webkit-flex; display: -moz-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -moz-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -webkit-justify-content: center; -moz-box-pack: center; -ms-flex-pack: center; justify-content: center; height: 60px;}
 	.mtel {min-width: 60px; height: 60px; display: -webkit-box; display: -webkit-flex; display: -moz-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -moz-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -webkit-justify-content: center; -moz-box-pack: center; -ms-flex-pack: center; justify-content: center;}
 	.mtel.show {background: #9b6e30;}
-	.logo img {height: 60px;}
+	.logo img {height: 60px; max-width: 100%}
 
 	.pu {width: 90%;}
 
