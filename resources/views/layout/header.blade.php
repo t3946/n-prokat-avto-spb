@@ -8,7 +8,7 @@
                 <span class="ms-2">г. Санкт Петербург</span>
             </div>
             <div class="mhcont">
-                <a class="tel" href="tel:+79816866335">+7 (981) 686-63-35<span>круглосуточно</span></a>
+                <a class="tel" href="tel:+79119891694">+7 (911) 989-16-94<span>круглосуточно</span></a>
                 <span
                     class="callback pushow d-none"
                     data-title="Заказать звонок"

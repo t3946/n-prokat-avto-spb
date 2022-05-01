@@ -6,8 +6,8 @@
 
 @section('content')
 
-    <div itemscope="" itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs"><span itemscope="" itemprop="itemListElement" class="B_firstCrumb" itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Главная</span><meta itemprop="position" content="1"></a></span><span class="sep">»</span><a href="/kontakty/">Контакты</a><span class='sep'>»</span><span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem"><link href="/kontakty/ofis-dal-nevostochnyj/" itemprop="url item"><span itemprop="name" class='current'>Офис «Васнецовский»</span><meta itemprop="position" content="2"></span></div>
-    <div class="toph1"><h1>Офис «Васнецовский»</h1></div>
+    <div itemscope="" itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs"><span itemscope="" itemprop="itemListElement" class="B_firstCrumb" itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Главная</span><meta itemprop="position" content="1"></a></span><span class="sep">»</span><a href="/kontakty/">Контакты</a><span class='sep'>»</span><span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem"><link href="/kontakty/ofis-dal-nevostochnyj/" itemprop="url item"><span itemprop="name" class='current'>Офис «Казанский»</span><meta itemprop="position" content="2"></span></div>
+    <div class="toph1"><h1>Офис «Казанский»</h1></div>
     <div class="contInfoPage">
         <div class="sliderMap d-none">
             <div class="owl-carousel">
@@ -18,9 +18,9 @@
         <div class="mainInfoCont">
             <h2>Контактная информация</h2>
             <ul class="ulcont">
-                <li><span class="icoimg"><img src="/images/contacts/icons/map@3x.png" alt="" /></span><span>С-Пб., пр. Дальневосточный 20к2</span></li>
-                <li><span class="icoimg"><img src="/images/contacts/icons/phoneico@3x.png" alt="" /></span><span>Режим работы контактного центра - круглосуточно<br/><a class="telcp" href="tel:+79816866335">+7 (981) 686-63-35</a></span></li>
-                <li><span class="icoimg"><img src="/images/contacts/icons/mailico@3x.png" alt="" /></span><span>Эл-почта: <a href="mailto:Qwerty123df.spb@yandex.ru">Qwerty123df.spb@yandex.ru</a></span></li>
+                <li><span class="icoimg"><img src="/images/contacts/icons/map@3x.png" alt="" /></span><span>ул. Казанская д.18</span></li>
+                <li><span class="icoimg"><img src="/images/contacts/icons/phoneico@3x.png" alt="" /></span><span>Режим работы контактного центра - круглосуточно<br/><a class="telcp" href="tel:+79119891694">+7 (911) 989-16-94</a></span></li>
+                <li><span class="icoimg"><img src="/images/contacts/icons/mailico@3x.png" alt="" /></span><span>Эл-почта: <a href="mailto:ElenA.T2022@yandex.ru">ElenA.T2022@yandex.ru</a></span></li>
                 <li><span class="icoimg"><img src="/images/contacts/icons/clock@3x.png" alt="" /></span><span>Часы работы офиса обслуживания:<br/>Пн - Вс с 09:00 до 21:00</span></li>
             </ul>
         </div>

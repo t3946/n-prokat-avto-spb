@@ -36,8 +36,8 @@
                     <th>Подробнее</th>
                 </tr>
                 <tr>
-                    <td>Офис «Васнецовский»</td>
-                    <td> Санкт-Петербург, ПР-КТ Васнецовский д.18, стр 1.</td>
+                    <td>Офис «Казанский»</td>
+                    <td> Санкт-Петербург, ул. Казанская д.18</td>
                     <td>с 09:00 до 21:00</td>
                     <td><a class="button" href="/kontakty/ofis-dal-nevostochnyj">Подробнее</a></td>
                 </tr>
@@ -129,8 +129,8 @@
 
     <div class="contMiniM m_contTab m_contTab_0">
         <div>
-            <span class="title">Офис «Васнецовский»</span>
-            <span class="infoline"><span>Месторасположение:</span>Санкт-Петербург, ПР-КТ Васнецовский д.18, стр 1.</span>
+            <span class="title">Офис «Казанский»</span>
+            <span class="infoline"><span>Месторасположение:</span>Санкт-Петербург, ул. Казанская д.18</span>
             <span class="infoline"><span>Режим работы:</span>с 09:00 до 21:00</span>
             <a class="button" href="/kontakty/ofis-dal-nevostochnyj/">Подробнее</a>
         </div>
@@ -146,20 +146,20 @@
                 <span class="title">Юридическая информация</span>
                 <div class="urinfotxt">
                     <h1 class="mb-3">Контакты</h1>
-                    <h3 class="mb-3">Кулешов Никита Алексеевич (ИП)</h3>
+                    <h3 class="mb-3">Тимофеева Елена Романовна (ИП)</h3>
                     <ul class="list-unstyled m-0 fw-bold mb-3">
-                        <li><strong>ИНН:</strong> 780454166575</li>
+                        <li><strong>ИНН:</strong> 471202349930</li>
                     </ul>
 
                     <ul class="list-unstyled m-0 fw-bold mb-3">
-                        <li><strong>Расчетный счет:</strong> 40802810132330002879</li>
+                        <li><strong>Расчетный счет:</strong> 40802810032390002728</li>
                         <li><strong>Корр. счет:</strong> 30101810600000000786</li>
-                        <li><strong>Банк:</strong> Филиал «Санкт-Петербургский» АО «Альфа Банк»</li>
+                        <li><strong>Банк:</strong> Филиал «Санкт-Петербургский АО «Альфа Банк»</li>
                         <li><strong>БИК:</strong> 044030786</li>
                     </ul>
 
                     <ul class="list-unstyled m-0 fw-bold mb-3">
-                        <li><strong>Юридический адрес компании:</strong> Проспект Васнецовский, д. 18, корп./стр.1, кв./оф.кв. 144. г. Санкт-Петербург</li>
+                        <li><strong>Юридический адрес компании:</strong> г. Санкт-Петербург, ул. Казанская 18</li>
                     </ul>
 
                     <h4>ОКВЭД:</h4>

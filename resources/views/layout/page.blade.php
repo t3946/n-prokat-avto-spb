@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <title>@yield('title')</title>
     <meta name="description"
-          content="Наши контакты. В автопрокате офис «Васнецовский» всегда широкий выбор автомобилей, подбор по параметрам и круглосуточный сервис для наших клиентов. Оставьте заявку на сайте уже сейчас."/>
+          content="Наши контакты. В автопрокате Офис «Казанский» всегда широкий выбор автомобилей, подбор по параметрам и круглосуточный сервис для наших клиентов. Оставьте заявку на сайте уже сейчас."/>
     <meta name="keywords" content="Контакты"/>
     <script type="text/javascript" nonce="2421f33a71194e49b034847248a"
             src="//local.adguard.org?ts=1651074249685&amp;type=content-script&amp;dmn=avto-prokat.spb.ru&amp;pth=%2Fkontakty%2F&amp;app=chrome.exe&amp;css=3&amp;js=1&amp;rel=1&amp;rji=1&amp;sbe=1&amp;stealth=1&amp;uag="></script>

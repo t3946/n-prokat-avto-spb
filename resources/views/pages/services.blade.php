@@ -226,31 +226,31 @@
             </a><a href="/uslugi/arenda-legkovyh-avtomobilej/">
                 <img src="/images/origin/services/depositphotos_26928661_original-3.jpg" alt="" />
                 <span>
-		<span class="title">Аренда легкового автомобиля в СПб | Взять легковушку на прокат в Офис «Васнецовский»</span>
+		<span class="title">Аренда легкового автомобиля в СПб | Взять легковушку на прокат в Офис «Казанский»</span>
 		<p>Легковой автомобиль в аренду в Санкт-Петербурге.</p>
 	</span>
             </a><a href="/uslugi/arenda-avtomobilya-na-vyhodnye/">
                 <img src="/images/origin/services/38f56cc16f13b2675e4a51e4f9eab4a4.jpg" alt="" />
                 <span>
-		<span class="title">Аренда авто на выходные в СПб | Прокат машин в Офис «Васнецовский»</span>
+		<span class="title">Аренда авто на выходные в СПб | Прокат машин в Офис «Казанский»</span>
 		<p>Аренда автомобиля на выходные. Выбор комплектации авто. Возможность забронировать.</p>
 	</span>
             </a><a href="/uslugi/arenda-avtomobilya-na-2-nedeli/">
                 <img src="/images/origin/services/4210973.jpeg" alt="" />
                 <span>
-		<span class="title">Аренда авто на 2 недели | Прокат машины на 14 дней в СПб | Офис «Васнецовский»</span>
+		<span class="title">Аренда авто на 2 недели | Прокат машины на 14 дней в СПб | Офис «Казанский»</span>
 		<p>Взять автомобиль на 2 недели. Прокат машин на 14 дней в Санкт-Петербурге. Выбор комплектации авто.</p>
 	</span>
             </a><a href="/uslugi/dlitelnaya-arenda-avtomobilya/">
                 <img src="/images/origin/services/dfslkgjhsgrhg87546.png" alt="" />
                 <span>
-		<span class="title">Сервис долгосрочной аренды авто в СПб | Снять в прокат автомобиль на длительный срок в Офис «Васнецовский»</span>
+		<span class="title">Сервис долгосрочной аренды авто в СПб | Снять в прокат автомобиль на длительный срок в Офис «Казанский»</span>
 		<p>Аренда автомобилей на длительный срок. Выгодные цены. Бронирование. Различные комплектации.</p>
 	</span>
             </a><a href="/uslugi/arenda-minivena/">
                 <img src="/images/origin/services/20.jpg" alt="" />
                 <span>
-		<span class="title">Аренда минивэна без водителя в СПб | Снять авто минивэн на прокат в Офис «Васнецовский»</span>
+		<span class="title">Аренда минивэна без водителя в СПб | Снять авто минивэн на прокат в Офис «Казанский»</span>
 		<p>Аренда минивена на 7, 8 и более человек. Без скрытых платежей. Удобное бронирование на сайте. Взять напрокат минивен в СПб. Застрахованный автомобиль, оперативная подача.</p>
 	</span>
             </a><a href="/uslugi/prokat-dorogih-avto/">
@@ -280,7 +280,7 @@
             </a><a href="/uslugi/arenda-avtomobilya-na-nedelyu/">
                 <img src="/images/origin/services/15.jpg" alt="" />
                 <span>
-		<span class="title">Аренда автомобиля на неделю в Санкт-Петербурге | Офис «Васнецовский»</span>
+		<span class="title">Аренда автомобиля на неделю в Санкт-Петербурге | Офис «Казанский»</span>
 		<p>Аренда авто на неделю в СПб. Подбор по параметрам. Бронирование. автомашины всех классов, включая бизнес и комфорт. Оформление заявки прямо на сайте. Круглосуточный сервис.</p>
 	</span>
             </a><a href="/uslugi/arenda-avto-na-mesyac/">
