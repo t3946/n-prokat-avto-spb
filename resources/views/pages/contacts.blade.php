@@ -164,8 +164,6 @@
 
                     <h4>ОКВЭД:</h4>
                     <p>77.11 "Аренда и лизинг легковых автомобилей и легких автотранспортных средств"</p>
-
-                    <img class="contacts-qr-code" src="/images/contacts/qr-code.jpg" alt="qr-code" />
                 </div>
             </div>
         </div>
